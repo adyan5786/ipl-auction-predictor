@@ -1,0 +1,701 @@
+Player,Role,Amount,Team,Year,Player Origin,auction_player_name,matched_stats_player_name,Unnamed: 0,player,runs,boundaries,balls_faced,wickets,balls_bowled,runs_conceded,matches,batting_avg,batting_strike_rate,boundaries_percent,bowling_economy,bowling_avg,bowling_strike_rate,catches,stumpings
+Aaron Finch,Batsman,40000000,Sunrisers Hyderabad,2014.0,Overseas,Aaron Finch,AJ Finch,40,AJ Finch,2092,292,1696,1.0,44.0,67.0,90,23.24,123.35,17.22,9.14,66.99,44.0,29.0,0.0
+Aaron Finch,Batsman,32000000,Mumbai Indians,2015.0,Overseas,Aaron Finch,AJ Finch,40,AJ Finch,2092,292,1696,1.0,44.0,67.0,90,23.24,123.35,17.22,9.14,66.99,44.0,29.0,0.0
+Aaron Finch,Batsman,10000000,Gujarat Lions,2016.0,Overseas,Aaron Finch,AJ Finch,40,AJ Finch,2092,292,1696,1.0,44.0,67.0,90,23.24,123.35,17.22,9.14,66.99,44.0,29.0,0.0
+Aaron Finch,Batsman,62000000,Kings XI Punjab,2018.0,Overseas,Aaron Finch,AJ Finch,40,AJ Finch,2092,292,1696,1.0,44.0,67.0,90,23.24,123.35,17.22,9.14,66.99,44.0,29.0,0.0
+Aaron Finch,Batsman,44000000,Royal Challengers Bangalore,2020.0,Overseas,Aaron Finch,AJ Finch,40,AJ Finch,2092,292,1696,1.0,44.0,67.0,90,23.24,123.35,17.22,9.14,66.99,44.0,29.0,0.0
+Abdul Samad,All-Rounder,2000000,Sunrisers Hyderabad,2020.0,Indian,Abdul Samad,Abdul Samad,62,Abdul Samad,228,26,164,2.0,55.0,113.0,19,12.0,139.02,15.85,12.33,56.5,27.5,14.0,0.0
+Abhijeet Tomar,Batsman,4000000,Kolkata Knight Riders,2022.0,Indian,Abhijeet Tomar,A Tomar,16,A Tomar,4,1,8,0.0,0.0,0.0,1,4.0,50.0,12.5,0.0,0.0,0.0,0.0,0.0
+Abhimanyu Mithun,Bowler,3000000,Mumbai Indians,2015.0,Indian,Abhimanyu Mithun,A Mithun,10,A Mithun,34,5,26,7.0,312.0,477.0,16,2.12,130.77,19.23,9.17,68.14,44.57,7.0,0.0
+Abhimanyu Mithun,Bowler,3000000,Sunrisers Hyderabad,2016.0,Indian,Abhimanyu Mithun,A Mithun,10,A Mithun,34,5,26,7.0,312.0,477.0,16,2.12,130.77,19.23,9.17,68.14,44.57,7.0,0.0
+Abhishek Sharma,All-Rounder,5500000,Delhi Daredevils,2018.0,Indian,Abhishek Sharma,Abhishek Sharma,64,Abhishek Sharma,667,89,511,7.0,161.0,218.0,36,18.53,130.53,17.42,8.12,31.14,23.0,6.0,0.0
+Abhishek Sharma,All-Rounder,65000000,Sunrisers Hyderabad,2022.0,Indian,Abhishek Sharma,Abhishek Sharma,64,Abhishek Sharma,667,89,511,7.0,161.0,218.0,36,18.53,130.53,17.42,8.12,31.14,23.0,6.0,0.0
+Adam Milne,Bowler,7000000,Royal Challengers Bangalore,2015.0,Overseas,Adam Milne,AF Milne,37,AF Milne,23,1,31,7.0,217.0,339.0,10,2.3,74.19,3.23,9.37,48.43,31.0,7.0,0.0
+Adam Milne,Bowler,32000000,Mumbai Indians,2021.0,Overseas,Adam Milne,AF Milne,37,AF Milne,23,1,31,7.0,217.0,339.0,10,2.3,74.19,3.23,9.37,48.43,31.0,7.0,0.0
+Adam Milne,Bowler,19000000,Chennai Super Kings,2022.0,Overseas,Adam Milne,AF Milne,37,AF Milne,23,1,31,7.0,217.0,339.0,10,2.3,74.19,3.23,9.37,48.43,31.0,7.0,0.0
+Adam Zampa,Bowler,3000000,Rising Pune Supergiant,2016.0,Overseas,Adam Zampa,A Zampa,18,A Zampa,5,1,8,21.0,292.0,373.0,14,0.36,62.5,12.5,7.66,17.76,13.9,1.0,0.0
+Aditya Tare,Wicket Keeper,16000000,Mumbai Indians,2014.0,Indian,Aditya Tare,AP Tare,51,AP Tare,339,51,285,0.0,0.0,0.0,27,12.56,118.95,17.89,0.0,0.0,0.0,3.0,6.0
+Aditya Tare,Wicket Keeper,12000000,Sunrisers Hyderabad,2016.0,Indian,Aditya Tare,AP Tare,51,AP Tare,339,51,285,0.0,0.0,0.0,27,12.56,118.95,17.89,0.0,0.0,0.0,3.0,6.0
+Aditya Tare,Wicket Keeper,2500000,Delhi Daredevils,2017.0,Indian,Aditya Tare,AP Tare,51,AP Tare,339,51,285,0.0,0.0,0.0,27,12.56,118.95,17.89,0.0,0.0,0.0,3.0,6.0
+Aditya Tare,Wicket Keeper,2000000,Mumbai Indians,2018.0,Indian,Aditya Tare,AP Tare,51,AP Tare,339,51,285,0.0,0.0,0.0,27,12.56,118.95,17.89,0.0,0.0,0.0,3.0,6.0
+Aiden Blizzard,Batsman,3000000,Mumbai Indians,2015.0,Overseas,Aiden Blizzard,AC Blizzard,28,AC Blizzard,120,23,91,0.0,0.0,0.0,7,17.14,131.87,25.27,0.0,0.0,0.0,4.0,0.0
+Aiden Markram,Batsman,26000000,Sunrisers Hyderabad,2022.0,Overseas,Aiden Markram,AK Markram,43,AK Markram,527,60,400,1.0,61.0,87.0,19,27.74,131.75,15.0,8.56,86.99,60.99,9.0,0.0
+Ajinkya Rahane,Batsman,40000000,Rajasthan Royals,2018.0,Indian,Ajinkya Rahane,AM Rahane,46,AM Rahane,4074,511,3465,1.0,6.0,5.0,148,27.53,117.58,14.75,5.0,5.0,6.0,63.0,0.0
+Ajinkya Rahane,Batsman,10000000,Kolkata Knight Riders,2022.0,Indian,Ajinkya Rahane,AM Rahane,46,AM Rahane,4074,511,3465,1.0,6.0,5.0,148,27.53,117.58,14.75,5.0,5.0,6.0,63.0,0.0
+Akash Deep,Bowler,2000000,Royal Challengers Bangalore,2022.0,Indian,Akash Deep,Akash Deep,65,Akash Deep,0,0,2,5.0,119.0,206.0,5,0.0,0.0,0.0,10.39,41.2,23.8,1.0,0.0
+Akila Dananjaya,All-Rounder,1500000,Chennai Super Kings,2013.0,Overseas,Akila Dananjaya,A Dananjaya,5,A Dananjaya,4,0,5,0.0,25.0,47.0,1,4.0,80.0,0.0,11.28,470000.0,250000.0,0.0,0.0
+Akila Dhananjaya,Bowler,5000000,Mumbai Indians,2018.0,Overseas,Akila Dhananjaya,A Dananjaya,5,A Dananjaya,4,0,5,0.0,25.0,47.0,1,4.0,80.0,0.0,11.28,470000.0,250000.0,0.0,0.0
+Albie Morkel,All-Rounder,24000000,Royal Challengers Bangalore,2014.0,Overseas,Albie Morkel,JA Morkel,216,JA Morkel,975,116,712,85.0,1807.0,2409.0,90,10.83,136.94,16.29,8.0,28.34,21.26,17.0,0.0
+Albie Morkel,All-Rounder,3000000,Delhi Daredevils,2015.0,Overseas,Albie Morkel,JA Morkel,216,JA Morkel,975,116,712,85.0,1807.0,2409.0,90,10.83,136.94,16.29,8.0,28.34,21.26,17.0,0.0
+Alex Carey,Wicket Keeper,24000000,Delhi Capitals,2020.0,Overseas,Alex Carey,AT Carey,59,AT Carey,32,1,29,0.0,0.0,0.0,3,10.67,110.34,3.45,0.0,0.0,0.0,2.0,0.0
+Alex Hales,Batsman,15000000,Kolkata Knight Riders,2022.0,Overseas,Alex Hales,AD Hales,32,AD Hales,148,19,119,0.0,0.0,0.0,6,24.67,124.37,15.97,0.0,0.0,0.0,2.0,0.0
+Alzarri Joseph,Bowler,24000000,Gujarat Titans,2022.0,Overseas,Alzarri Joseph,AS Joseph,54,AS Joseph,20,2,20,13.0,240.0,358.0,12,1.67,100.0,10.0,8.95,27.54,18.46,1.0,0.0
+Aman Khan,All-Rounder,2000000,Kolkata Knight Riders,2022.0,Indian,Aman Khan,Kamran Khan,276,Kamran Khan,3,0,5,10.0,177.0,248.0,9,0.33,60.0,0.0,8.41,24.8,17.7,4.0,0.0
+Ambati Rayudu,Wicket Keeper,22000000,Chennai Super Kings,2018.0,Indian,Ambati Rayudu,AT Rayudu,60,AT Rayudu,4190,513,3375,0.0,0.0,0.0,173,24.22,124.15,15.2,0.0,0.0,0.0,62.0,2.0
+Ambati Rayudu,Wicket Keeper,67500000,Chennai Super Kings,2022.0,Indian,Ambati Rayudu,AT Rayudu,60,AT Rayudu,4190,513,3375,0.0,0.0,0.0,173,24.22,124.15,15.2,0.0,0.0,0.0,62.0,2.0
+Amit Mishra,Bowler,1000000,Rajasthan Royals,2014.0,Indian,Amit Mishra,A Mishra,9,A Mishra,362,34,410,166.0,3317.0,4022.0,154,2.35,88.29,8.29,7.28,24.23,19.98,18.0,0.0
+Amit Mishra,Bowler,47500000,Sunrisers Hyderabad,2014.0,Indian,Amit Mishra,A Mishra,9,A Mishra,362,34,410,166.0,3317.0,4022.0,154,2.35,88.29,8.29,7.28,24.23,19.98,18.0,0.0
+Amit Mishra,Bowler,35000000,Delhi Daredevils,2015.0,Indian,Amit Mishra,A Mishra,9,A Mishra,362,34,410,166.0,3317.0,4022.0,154,2.35,88.29,8.29,7.28,24.23,19.98,18.0,0.0
+Amit Mishra,Bowler,1000000,Gujarat Lions,2016.0,Indian,Amit Mishra,A Mishra,9,A Mishra,362,34,410,166.0,3317.0,4022.0,154,2.35,88.29,8.29,7.28,24.23,19.98,18.0,0.0
+Amit Mishra,Bowler,40000000,Delhi Daredevils,2018.0,Indian,Amit Mishra,A Mishra,9,A Mishra,362,34,410,166.0,3317.0,4022.0,154,2.35,88.29,8.29,7.28,24.23,19.98,18.0,0.0
+Amit Paunikar,Wicket Keeper,2000000,Sunrisers Hyderabad,2014.0,Indian,Amit Paunikar,AG Paunikar,39,AG Paunikar,49,9,61,0.0,0.0,0.0,5,9.8,80.33,14.75,0.0,0.0,0.0,1.0,0.0
+Andre Russell,All-Rounder,6000000,Kolkata Knight Riders,2014.0,Overseas,Andre Russell,AD Russell,36,AD Russell,2039,313,1212,89.0,1484.0,2214.0,95,21.46,168.23,25.83,8.95,24.88,16.67,23.0,0.0
+Andrew Tye,Bowler,2000000,Chennai Super Kings,2015.0,Overseas,Andrew Tye,AJ Tye,42,AJ Tye,91,11,79,42.0,714.0,1005.0,30,3.03,115.19,13.92,8.45,23.93,17.0,7.0,0.0
+Andrew Tye,All-Rounder,5000000,Gujarat Lions,2016.0,Overseas,Andrew Tye,AJ Tye,42,AJ Tye,91,11,79,42.0,714.0,1005.0,30,3.03,115.19,13.92,8.45,23.93,17.0,7.0,0.0
+Andrew Tye,Bowler,72000000,Kings XI Punjab,2018.0,Overseas,Andrew Tye,AJ Tye,42,AJ Tye,91,11,79,42.0,714.0,1005.0,30,3.03,115.19,13.92,8.45,23.93,17.0,7.0,0.0
+Andrew Tye,Bowler,10000000,Rajasthan Royals,2020.0,Overseas,Andrew Tye,AJ Tye,42,AJ Tye,91,11,79,42.0,714.0,1005.0,30,3.03,115.19,13.92,8.45,23.93,17.0,7.0,0.0
+Angelo Mathews,All-Rounder,75000000,Delhi Daredevils,2015.0,Overseas,Angelo Mathews,AD Mathews,34,AD Mathews,724,73,599,27.0,807.0,1095.0,46,15.74,120.87,12.19,8.14,40.56,29.89,19.0,0.0
+Angelo Mathews,All-Rounder,20000000,Delhi Daredevils,2017.0,Overseas,Angelo Mathews,AD Mathews,34,AD Mathews,724,73,599,27.0,807.0,1095.0,46,15.74,120.87,12.19,8.14,40.56,29.89,19.0,0.0
+Aniket Choudhary,Bowler,20000000,Royal Challengers Bangalore,2017.0,Indian,Aniket Choudhary,A Choudhary,4,A Choudhary,25,2,20,5.0,108.0,144.0,5,5.0,125.0,10.0,8.0,28.8,21.6,0.0,0.0
+Aniket Choudhary,Bowler,3000000,Royal Challengers Bangalore,2018.0,Indian,Aniket Choudhary,A Choudhary,4,A Choudhary,25,2,20,5.0,108.0,144.0,5,5.0,125.0,10.0,8.0,28.8,21.6,0.0,0.0
+Ankeet Bawane,Batsman,1000000,Delhi Daredevils,2017.0,Indian,Ankeet Bawane,AR Bawne,52,AR Bawne,12,1,12,0.0,0.0,0.0,1,12.0,100.0,8.33,0.0,0.0,0.0,0.0,0.0
+Ankit Nagendra Sharma,Bowler,1000000,Rajasthan Royals,2014.0,Indian,Ankit Nagendra Sharma,Ankit Sharma,68,Ankit Sharma,87,11,69,12.0,375.0,453.0,21,4.14,126.09,15.94,7.25,37.75,31.25,4.0,0.0
+Ankit Sharma,All-Rounder,1000000,Rising Pune Supergiant,2016.0,Indian,Ankit Sharma,Ankit Sharma,68,Ankit Sharma,87,11,69,12.0,375.0,453.0,21,4.14,126.09,15.94,7.25,37.75,31.25,4.0,0.0
+Ankit Sharma,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,Ankit Sharma,Ankit Sharma,68,Ankit Sharma,87,11,69,12.0,375.0,453.0,21,4.14,126.09,15.94,7.25,37.75,31.25,4.0,0.0
+Anmolpreet Singh,Batsman,8000000,Mumbai Indians,2019.0,Indian,Anmolpreet Singh,Anmolpreet Singh,70,Anmolpreet Singh,29,4,27,0.0,0.0,0.0,3,9.67,107.41,14.81,0.0,0.0,0.0,1.0,0.0
+Anmolpreet Singh,Batsman,2000000,Mumbai Indians,2022.0,Indian,Anmolpreet Singh,Anmolpreet Singh,70,Anmolpreet Singh,29,4,27,0.0,0.0,0.0,3,9.67,107.41,14.81,0.0,0.0,0.0,1.0,0.0
+Anrich Nortje,Bowler,2000000,Kolkata Knight Riders,2019.0,Overseas,Anrich Nortje,A Nortje,13,A Nortje,8,0,13,43.0,706.0,946.0,30,0.27,61.54,0.0,8.04,22.0,16.42,7.0,0.0
+Ansh Patel,All-Rounder,2000000,Punjab Kings,2022.0,Indian,Ansh Patel,AR Patel,53,AR Patel,1135,121,919,101.0,2599.0,3140.0,122,9.3,123.5,13.17,7.25,31.09,25.73,51.0,0.0
+Anuj Rawat,Wicket Keeper,8000000,Rajasthan Royals,2020.0,Indian,Anuj Rawat,Anuj Rawat,71,Anuj Rawat,129,17,124,0.0,0.0,0.0,9,14.33,104.03,13.71,0.0,0.0,0.0,10.0,0.0
+Anuj Rawat,Wicket Keeper,34000000,Royal Challengers Bangalore,2022.0,Indian,Anuj Rawat,Anuj Rawat,71,Anuj Rawat,129,17,124,0.0,0.0,0.0,9,14.33,104.03,13.71,0.0,0.0,0.0,10.0,0.0
+Anukul Roy,All-Rounder,2000000,Mumbai Indians,2018.0,Indian,Anukul Roy,AS Roy,57,AS Roy,0,0,2,2.0,57.0,66.0,3,0.0,0.0,0.0,6.95,33.0,28.5,5.0,0.0
+Anukul Roy,All-Rounder,2000000,Kolkata Knight Riders,2022.0,Indian,Anukul Roy,AS Roy,57,AS Roy,0,0,2,2.0,57.0,66.0,3,0.0,0.0,0.0,6.95,33.0,28.5,5.0,0.0
+Anureet Singh,Bowler,2000000,Kings XI Punjab,2014.0,Indian,Anureet Singh,Anureet Singh,72,Anureet Singh,36,3,47,18.0,430.0,636.0,22,1.64,76.6,6.38,8.87,35.33,23.89,5.0,0.0
+Anureet Singh,Bowler,3000000,Rajasthan Royals,2018.0,Indian,Anureet Singh,Anureet Singh,72,Anureet Singh,36,3,47,18.0,430.0,636.0,22,1.64,76.6,6.38,8.87,35.33,23.89,5.0,0.0
+Arshdeep Singh,Bowler,2000000,Kings XI Punjab,2019.0,Indian,Arshdeep Singh,Arshdeep Singh,73,Arshdeep Singh,23,3,36,40.0,803.0,1086.0,37,0.62,63.89,8.33,8.11,27.15,20.07,6.0,0.0
+Ashish Nehra,Bowler,20000000,Chennai Super Kings,2014.0,Indian,Ashish Nehra,A Nehra,12,A Nehra,41,4,63,106.0,1974.0,2537.0,88,0.47,65.08,6.35,7.71,23.93,18.62,17.0,0.0
+Ashish Nehra,Bowler,55000000,Sunrisers Hyderabad,2016.0,Indian,Ashish Nehra,A Nehra,12,A Nehra,41,4,63,106.0,1974.0,2537.0,88,0.47,65.08,6.35,7.71,23.93,18.62,17.0,0.0
+Ashish Reddy,Bowler,2000000,Sunrisers Hyderabad,2014.0,Indian,Ashish Reddy,A Ashish Reddy,0,A Ashish Reddy,280,31,196,18.0,270.0,400.0,28,10.0,142.86,15.82,8.89,22.22,15.0,8.0,0.0
+Ashok Dinda,Bowler,15000000,Royal Challengers Bangalore,2014.0,Indian,Ashok Dinda,AB Dinda,25,AB Dinda,26,2,50,69.0,1589.0,2103.0,76,0.34,52.0,4.0,7.94,30.48,23.03,7.0,0.0
+Ashok Dinda,Bowler,5000000,Rising Pune Supergiant,2016.0,Indian,Ashok Dinda,AB Dinda,25,AB Dinda,26,2,50,69.0,1589.0,2103.0,76,0.34,52.0,4.0,7.94,30.48,23.03,7.0,0.0
+Ashton Turner,All-Rounder,5000000,Rajasthan Royals,2019.0,Indian,Ashton Turner,AJ Turner,41,AJ Turner,3,0,11,0.0,0.0,0.0,4,0.75,27.27,0.0,0.0,0.0,0.0,0.0,0.0
+Avesh Khan,Bowler,7000000,Delhi Daredevils,2018.0,Indian,Avesh Khan,Avesh Khan,74,Avesh Khan,31,5,19,47.0,868.0,1190.0,38,0.82,163.16,26.32,8.23,25.32,18.47,6.0,0.0
+Avesh Khan,Bowler,100000000,Lucknow Super Giants,2022.0,Indian,Avesh Khan,Avesh Khan,74,Avesh Khan,31,5,19,47.0,868.0,1190.0,38,0.82,163.16,26.32,8.23,25.32,18.47,6.0,0.0
+Axar Rajesh Patel,All-Rounder,50000000,Delhi Capitals,2019.0,Indian,Axar Rajesh Patel,AR Patel,53,AR Patel,1135,121,919,101.0,2599.0,3140.0,122,9.3,123.5,13.17,7.25,31.09,25.73,51.0,0.0
+Ayush Badoni,All-Rounder,2000000,Lucknow Super Giants,2022.0,Indian,Ayush Badoni,A Badoni,1,A Badoni,161,18,139,2.0,12.0,12.0,11,14.64,115.83,12.95,6.0,6.0,6.0,8.0,0.0
+B. Sai Sudharsan,All-Rounder,2000000,Gujarat Titans,2022.0,Indian,B. Sai Sudharsan,B Sai Sudharsan,82,B Sai Sudharsan,145,17,118,0.0,0.0,0.0,5,29.0,122.88,14.41,0.0,0.0,0.0,1.0,0.0
+Baba Indrajith,Wicket Keeper,2000000,Kolkata Knight Riders,2022.0,Indian,Baba Indrajith,B Indrajith,78,B Indrajith,21,2,31,0.0,0.0,0.0,3,7.0,67.74,6.45,0.0,0.0,0.0,1.0,0.0
+Basil Thampi,Bowler,8500000,Gujarat Lions,2017.0,Indian,Basil Thampi,Basil Thampi,98,Basil Thampi,32,2,37,22.0,539.0,862.0,25,1.28,86.49,5.41,9.6,39.18,24.5,4.0,0.0
+Basil Thampi,Bowler,9500000,Sunrisers Hyderabad,2018.0,Indian,Basil Thampi,Basil Thampi,98,Basil Thampi,32,2,37,22.0,539.0,862.0,25,1.28,86.49,5.41,9.6,39.18,24.5,4.0,0.0
+Basil Thampi,Bowler,3000000,Mumbai Indians,2022.0,Indian,Basil Thampi,Basil Thampi,98,Basil Thampi,32,2,37,22.0,539.0,862.0,25,1.28,86.49,5.41,9.6,39.18,24.5,4.0,0.0
+Ben Cutting,Bowler,8000000,Rajasthan Royals,2014.0,Overseas,Ben Cutting,BCJ Cutting,91,BCJ Cutting,238,34,146,10.0,288.0,430.0,21,11.33,163.01,23.29,8.96,43.0,28.8,10.0,0.0
+Ben Cutting,All-Rounder,5000000,Sunrisers Hyderabad,2016.0,Overseas,Ben Cutting,BCJ Cutting,91,BCJ Cutting,238,34,146,10.0,288.0,430.0,21,11.33,163.01,23.29,8.96,43.0,28.8,10.0,0.0
+Ben Cutting,All-Rounder,22000000,Mumbai Indians,2018.0,Overseas,Ben Cutting,BCJ Cutting,91,BCJ Cutting,238,34,146,10.0,288.0,430.0,21,11.33,163.01,23.29,8.96,43.0,28.8,10.0,0.0
+Ben Cutting,All-Rounder,7500000,Kolkata Knight Riders,2021.0,Overseas,Ben Cutting,BCJ Cutting,91,BCJ Cutting,238,34,146,10.0,288.0,430.0,21,11.33,163.01,23.29,8.96,43.0,28.8,10.0,0.0
+Ben Dunk,Wicket Keeper,2000000,Mumbai Indians,2014.0,Overseas,Ben Dunk,BR Dunk,97,BR Dunk,40,7,36,0.0,0.0,0.0,3,13.33,111.11,19.44,0.0,0.0,0.0,4.0,0.0
+Ben Laughlin,Bowler,1500000,Chennai Super Kings,2013.0,Overseas,Ben Laughlin,B Laughlin,80,B Laughlin,5,0,13,10.0,179.0,284.0,9,0.56,38.46,0.0,9.52,28.4,17.9,1.0,0.0
+Ben Laughlin,Bowler,3000000,Sunrisers Hyderabad,2017.0,Overseas,Ben Laughlin,B Laughlin,80,B Laughlin,5,0,13,10.0,179.0,284.0,9,0.56,38.46,0.0,9.52,28.4,17.9,1.0,0.0
+Ben Laughlin,Bowler,5000000,Rajasthan Royals,2018.0,Overseas,Ben Laughlin,B Laughlin,80,B Laughlin,5,0,13,10.0,179.0,284.0,9,0.56,38.46,0.0,9.52,28.4,17.9,1.0,0.0
+Benjamin Stokes,All-Rounder,145000000,Rising Pune Supergiant,2017.0,Overseas,Benjamin Stokes,BA Stokes,86,BA Stokes,920,111,703,28.0,717.0,1005.0,43,21.4,130.87,15.79,8.41,35.89,25.61,21.0,0.0
+Benjamin Stokes,All-Rounder,125000000,Rajasthan Royals,2018.0,Overseas,Benjamin Stokes,BA Stokes,86,BA Stokes,920,111,703,28.0,717.0,1005.0,43,21.4,130.87,15.79,8.41,35.89,25.61,21.0,0.0
+Beuran Hendricks,Bowler,18000000,Kings XI Punjab,2014.0,Overseas,Beuran Hendricks,BE Hendricks,92,BE Hendricks,1,0,3,9.0,157.0,239.0,7,0.14,33.33,0.0,9.13,26.56,17.44,3.0,0.0
+Bhanuka Rajapaksa,Batsman,5000000,Punjab Kings,2022.0,Overseas,Bhanuka Rajapaksa,PBB Rajapaksa,386,PBB Rajapaksa,206,29,137,0.0,0.0,0.0,9,22.89,150.36,21.17,0.0,0.0,0.0,4.0,0.0
+Billy Stanlake,Bowler,3000000,Royal Challengers Bangalore,2017.0,Overseas,Billy Stanlake,B Stanlake,83,B Stanlake,5,1,2,7.0,150.0,200.0,6,0.83,250.0,50.0,8.0,28.57,21.43,1.0,0.0
+Billy Stanlake,Batsman,5000000,Sunrisers Hyderabad,2018.0,Overseas,Billy Stanlake,B Stanlake,83,B Stanlake,5,1,2,7.0,150.0,200.0,6,0.83,250.0,50.0,8.0,28.57,21.43,1.0,0.0
+Bipul Sharma,All-Rounder,2000000,Sunrisers Hyderabad,2018.0,Indian,Bipul Sharma,Bipul Sharma,99,Bipul Sharma,187,20,124,17.0,436.0,581.0,29,6.45,150.81,16.13,8.0,34.18,25.65,7.0,0.0
+Brad Hodge,Batsman,24000000,Rajasthan Royals,2014.0,Overseas,Brad Hodge,BJ Hodge,94,BJ Hodge,1400,165,1153,17.0,238.0,310.0,63,22.22,121.42,14.31,7.82,18.24,14.0,22.0,0.0
+Brad Hogg,Bowler,5000000,Kolkata Knight Riders,2015.0,Overseas,Brad Hogg,GB Hogg,175,GB Hogg,22,1,22,23.0,466.0,585.0,21,1.05,100.0,4.55,7.53,25.43,20.26,4.0,0.0
+Brendon McCullum,Wicket Keeper,32500000,Chennai Super Kings,2014.0,Overseas,Brendon McCullum,BB McCullum,88,BB McCullum,2882,423,2272,0.0,0.0,0.0,109,26.44,126.85,18.62,0.0,0.0,0.0,38.0,6.0
+Brendon McCullum,Batsman,36000000,Royal Challengers Bangalore,2018.0,Overseas,Brendon McCullum,BB McCullum,88,BB McCullum,2882,423,2272,0.0,0.0,0.0,109,26.44,126.85,18.62,0.0,0.0,0.0,38.0,6.0
+C.M. Gautam,Wicket Keeper,2000000,Mumbai Indians,2014.0,Indian,C.M. Gautam,CM Gautam,117,CM Gautam,169,23,158,0.0,0.0,0.0,13,13.0,106.96,14.56,0.0,0.0,0.0,3.0,4.0
+C.M. Gautam,Wicket Keeper,2000000,Delhi Daredevils,2015.0,Indian,C.M. Gautam,CM Gautam,117,CM Gautam,169,23,158,0.0,0.0,0.0,13,13.0,106.96,14.56,0.0,0.0,0.0,3.0,4.0
+Carlos Brathwaite,All-Rounder,42000000,Delhi Daredevils,2016.0,Overseas,Carlos Brathwaite,CR Brathwaite,118,CR Brathwaite,181,26,120,13.0,266.0,384.0,16,11.31,150.83,21.67,8.66,29.54,20.46,6.0,0.0
+Carlos Brathwaite,All-Rounder,20000000,Sunrisers Hyderabad,2018.0,Overseas,Carlos Brathwaite,CR Brathwaite,118,CR Brathwaite,181,26,120,13.0,266.0,384.0,16,11.31,150.83,21.67,8.66,29.54,20.46,6.0,0.0
+Carlos Brathwaite,All-Rounder,50000000,Kolkata Knight Riders,2019.0,Overseas,Carlos Brathwaite,CR Brathwaite,118,CR Brathwaite,181,26,120,13.0,266.0,384.0,16,11.31,150.83,21.67,8.66,29.54,20.46,6.0,0.0
+Chetan Sakariya,Bowler,12000000,Rajasthan Royals,2021.0,Indian,Chetan Sakariya,C Sakariya,103,C Sakariya,16,2,25,17.0,405.0,521.0,17,0.94,64.0,8.0,7.72,30.65,23.82,6.0,0.0
+Chetan Sakariya,Bowler,42000000,Delhi Capitals,2022.0,Indian,Chetan Sakariya,C Sakariya,103,C Sakariya,16,2,25,17.0,405.0,521.0,17,0.94,64.0,8.0,7.72,30.65,23.82,6.0,0.0
+Cheteshwar Pujara,Batsman,19000000,Kings XI Punjab,2014.0,Indian,Cheteshwar Pujara,CA Pujara,107,CA Pujara,390,54,403,0.0,0.0,0.0,22,17.73,96.77,13.4,0.0,0.0,0.0,6.0,0.0
+Cheteshwar Pujara,Batsman,5000000,Chennai Super Kings,2021.0,Indian,Cheteshwar Pujara,CA Pujara,107,CA Pujara,390,54,403,0.0,0.0,0.0,22,17.73,96.77,13.4,0.0,0.0,0.0,6.0,0.0
+Chris Jordan,All-Rounder,5000000,Sunrisers Hyderabad,2017.0,Overseas,Chris Jordan,CJ Jordan,112,CJ Jordan,75,6,68,27.0,577.0,870.0,28,2.68,110.29,8.82,9.05,32.22,21.37,13.0,0.0
+Chris Jordan,All-Rounder,10000000,Sunrisers Hyderabad,2018.0,Overseas,Chris Jordan,CJ Jordan,112,CJ Jordan,75,6,68,27.0,577.0,870.0,28,2.68,110.29,8.82,9.05,32.22,21.37,13.0,0.0
+Chris Jordan,All-Rounder,30000000,Kings XI Punjab,2020.0,Overseas,Chris Jordan,CJ Jordan,112,CJ Jordan,75,6,68,27.0,577.0,870.0,28,2.68,110.29,8.82,9.05,32.22,21.37,13.0,0.0
+Chris Jordan,All-Rounder,36000000,Chennai Super Kings,2022.0,Overseas,Chris Jordan,CJ Jordan,112,CJ Jordan,75,6,68,27.0,577.0,870.0,28,2.68,110.29,8.82,9.05,32.22,21.37,13.0,0.0
+Chris Lynn,Batsman,13000000,Kolkata Knight Riders,2014.0,Overseas,Chris Lynn,CA Lynn,106,CA Lynn,1329,198,974,0.0,0.0,0.0,42,31.64,136.45,20.33,0.0,0.0,0.0,12.0,0.0
+Chris Lynn,Batsman,96000000,Kolkata Knight Riders,2018.0,Overseas,Chris Lynn,CA Lynn,106,CA Lynn,1329,198,974,0.0,0.0,0.0,42,31.64,136.45,20.33,0.0,0.0,0.0,12.0,0.0
+Chris Lynn,Batsman,20000000,Mumbai Indians,2020.0,Overseas,Chris Lynn,CA Lynn,106,CA Lynn,1329,198,974,0.0,0.0,0.0,42,31.64,136.45,20.33,0.0,0.0,0.0,12.0,0.0
+Chris Woakes,All-Rounder,42000000,Kolkata Knight Riders,2017.0,Overseas,Chris Woakes,CR Woakes,119,CR Woakes,78,9,77,30.0,463.0,674.0,21,3.71,101.3,11.69,8.73,22.47,15.43,6.0,0.0
+Chris Woakes,All-Rounder,74000000,Royal Challengers Bangalore,2018.0,Overseas,Chris Woakes,CR Woakes,119,CR Woakes,78,9,77,30.0,463.0,674.0,21,3.71,101.3,11.69,8.73,22.47,15.43,6.0,0.0
+Chris Woakes,All-Rounder,15000000,Delhi Capitals,2020.0,Overseas,Chris Woakes,CR Woakes,119,CR Woakes,78,9,77,30.0,463.0,674.0,21,3.71,101.3,11.69,8.73,22.47,15.43,6.0,0.0
+Christopher Gayle,Batsman,20000000,Kings XI Punjab,2018.0,Overseas,Christopher Gayle,CH Gayle,108,CH Gayle,4997,767,3516,18.0,584.0,755.0,141,35.44,142.12,21.81,7.76,41.94,32.44,30.0,0.0
+Christopher Morris,All-Rounder,46875000,Chennai Super Kings,2013.0,Overseas,Christopher Morris,CH Morris,109,CH Morris,618,76,413,96.0,1801.0,2377.0,81,7.63,149.64,18.4,7.92,24.76,18.76,36.0,0.0
+Christopher Morris,All-Rounder,14000000,Rajasthan Royals,2015.0,Overseas,Christopher Morris,CH Morris,109,CH Morris,618,76,413,96.0,1801.0,2377.0,81,7.63,149.64,18.4,7.92,24.76,18.76,36.0,0.0
+Christopher Morris,All-Rounder,70000000,Delhi Daredevils,2016.0,Overseas,Christopher Morris,CH Morris,109,CH Morris,618,76,413,96.0,1801.0,2377.0,81,7.63,149.64,18.4,7.92,24.76,18.76,36.0,0.0
+Christopher Morris,All-Rounder,100000000,Royal Challengers Bangalore,2020.0,Overseas,Christopher Morris,CH Morris,109,CH Morris,618,76,413,96.0,1801.0,2377.0,81,7.63,149.64,18.4,7.92,24.76,18.76,36.0,0.0
+Christopher Morris,All-Rounder,162500000,Rajasthan Royals,2021.0,Overseas,Christopher Morris,CH Morris,109,CH Morris,618,76,413,96.0,1801.0,2377.0,81,7.63,149.64,18.4,7.92,24.76,18.76,36.0,0.0
+Clinton McKay,Bowler,7500000,Sunrisers Hyderabad,2013.0,Overseas,Clinton McKay,CJ McKay,113,CJ McKay,8,0,15,1.0,42.0,60.0,2,4.0,53.33,0.0,8.57,59.99,42.0,0.0,0.0
+Colin De Grandhomme,All-Rounder,22000000,Royal Challengers Bangalore,2018.0,Overseas,Colin De Grandhomme,C de Grandhomme,104,C de Grandhomme,303,36,229,6.0,230.0,323.0,25,12.12,132.31,15.72,8.43,53.83,38.33,6.0,0.0
+Colin Ingram,Batsman,64000000,Delhi Capitals,2019.0,Overseas,Colin Ingram,CA Ingram,105,CA Ingram,205,27,183,0.0,0.0,0.0,15,13.67,112.02,14.75,0.0,0.0,0.0,1.0,0.0
+Colin Munro,All-Rounder,3000000,Kolkata Knight Riders,2016.0,Overseas,Colin Munro,C Munro,101,C Munro,177,27,144,0.0,12.0,15.0,12,14.75,122.92,18.75,7.5,150000.0,120000.0,4.0,0.0
+Colin Munro,All-Rounder,19000000,Delhi Daredevils,2018.0,Overseas,Colin Munro,C Munro,101,C Munro,177,27,144,0.0,12.0,15.0,12,14.75,122.92,18.75,7.5,150000.0,120000.0,4.0,0.0
+Corey Anderson,All-Rounder,45000000,Mumbai Indians,2014.0,Overseas,Corey Anderson,CJ Anderson,110,CJ Anderson,538,71,436,11.0,315.0,525.0,30,17.93,123.39,16.28,10.0,47.73,28.64,11.0,0.0
+Corey Anderson,All-Rounder,10000000,Delhi Daredevils,2017.0,Overseas,Corey Anderson,CJ Anderson,110,CJ Anderson,538,71,436,11.0,315.0,525.0,30,17.93,123.39,16.28,10.0,47.73,28.64,11.0,0.0
+Dale Steyn,Bowler,23000000,Gujarat Lions,2016.0,Overseas,Dale Steyn,DW Steyn,164,DW Steyn,167,17,163,97.0,2282.0,2583.0,95,1.76,102.45,10.43,6.79,26.63,23.53,22.0,0.0
+Dale Steyn,Bowler,20000000,Royal Challengers Bangalore,2020.0,Overseas,Dale Steyn,DW Steyn,164,DW Steyn,167,17,163,97.0,2282.0,2583.0,95,1.76,102.45,10.43,6.79,26.63,23.53,22.0,0.0
+Dan Christian,All-Rounder,48000000,Royal Challengers Bangalore,2021.0,Overseas,Dan Christian,DT Christian,162,DT Christian,460,42,408,38.0,922.0,1218.0,49,9.39,112.75,10.29,7.93,32.05,24.26,28.0,0.0
+Daniel Christian,All-Rounder,7500000,Royal Challengers Bangalore,2013.0,Overseas,Daniel Christian,DT Christian,162,DT Christian,460,42,408,38.0,922.0,1218.0,49,9.39,112.75,10.29,7.93,32.05,24.26,28.0,0.0
+Daniel Christian,All-Rounder,10000000,Rising Pune Supergiant,2017.0,Overseas,Daniel Christian,DT Christian,162,DT Christian,460,42,408,38.0,922.0,1218.0,49,9.39,112.75,10.29,7.93,32.05,24.26,28.0,0.0
+Daniel Christian,All-Rounder,15000000,Delhi Daredevils,2018.0,Overseas,Daniel Christian,DT Christian,162,DT Christian,460,42,408,38.0,922.0,1218.0,49,9.39,112.75,10.29,7.93,32.05,24.26,28.0,0.0
+Daniel Sams,All-Rounder,26000000,Mumbai Indians,2022.0,Overseas,Daniel Sams,DR Sams,157,DR Sams,44,4,48,14.0,389.0,528.0,16,2.75,91.67,8.33,8.14,37.71,27.79,10.0,0.0
+Darcy Short,All-Rounder,40000000,Rajasthan Royals,2018.0,Overseas,Darcy Short,DJM Short,147,DJM Short,115,16,102,1.0,18.0,23.0,7,16.43,112.75,15.69,7.67,23.0,18.0,2.0,0.0
+Darren Bravo,Batsman,5000000,Kolkata Knight Riders,2017.0,Overseas,Darren Bravo,DJ Bravo,136,DJ Bravo,1560,186,1247,183.0,3296.0,4436.0,160,9.75,125.1,14.92,8.08,24.24,18.01,69.0,0.0
+Darren Sammy,All-Rounder,31875000,Sunrisers Hyderabad,2013.0,Overseas,Darren Sammy,DJG Sammy,146,DJG Sammy,295,33,251,11.0,244.0,354.0,22,13.41,117.53,13.15,8.7,32.18,22.18,9.0,0.0
+Darren Sammy,All-Rounder,35000000,Sunrisers Hyderabad,2014.0,Overseas,Darren Sammy,DJG Sammy,146,DJG Sammy,295,33,251,11.0,244.0,354.0,22,13.41,117.53,13.15,8.7,32.18,22.18,9.0,0.0
+Darren Sammy,All-Rounder,28000000,Royal Challengers Bangalore,2015.0,Overseas,Darren Sammy,DJG Sammy,146,DJG Sammy,295,33,251,11.0,244.0,354.0,22,13.41,117.53,13.15,8.7,32.18,22.18,9.0,0.0
+Darren Sammy,All-Rounder,3000000,Kings XI Punjab,2017.0,Overseas,Darren Sammy,DJG Sammy,146,DJG Sammy,295,33,251,11.0,244.0,354.0,22,13.41,117.53,13.15,8.7,32.18,22.18,9.0,0.0
+Daryl Mitchell,All-Rounder,7500000,Rajasthan Royals,2022.0,Overseas,Daryl Mitchell,DJ Mitchell,142,DJ Mitchell,33,1,46,0.0,13.0,27.0,2,16.5,71.74,2.17,12.46,270000.0,130000.0,2.0,0.0
+David Miller,Batsman,30000000,Kings XI Punjab,2018.0,Overseas,David Miller,DA Miller,129,DA Miller,2455,282,1838,0.0,0.0,0.0,101,24.31,133.57,15.34,0.0,0.0,0.0,64.0,0.0
+David Miller,Batsman,7500000,Rajasthan Royals,2020.0,Overseas,David Miller,DA Miller,129,DA Miller,2455,282,1838,0.0,0.0,0.0,101,24.31,133.57,15.34,0.0,0.0,0.0,64.0,0.0
+David Miller,Batsman,30000000,Gujarat Titans,2022.0,Overseas,David Miller,DA Miller,129,DA Miller,2455,282,1838,0.0,0.0,0.0,101,24.31,133.57,15.34,0.0,0.0,0.0,64.0,0.0
+David Warner,Batsman,55000000,Sunrisers Hyderabad,2014.0,Overseas,David Warner,DA Warner,130,DA Warner,5883,793,4313,0.0,2.0,2.0,162,36.31,136.4,18.39,6.0,20000.0,20000.0,76.0,0.0
+David Warner,Batsman,62500000,Delhi Capitals,2022.0,Overseas,David Warner,DA Warner,130,DA Warner,5883,793,4313,0.0,2.0,2.0,162,36.31,136.4,18.39,6.0,20000.0,20000.0,76.0,0.0
+David Wiese,All-Rounder,28000000,Royal Challengers Bangalore,2015.0,Overseas,David Wiese,D Wiese,127,D Wiese,127,16,94,16.0,289.0,409.0,15,8.47,135.11,17.02,8.49,25.56,18.06,5.0,0.0
+David Willey,All-Rounder,20000000,Royal Challengers Bangalore,2022.0,Overseas,David Willey,DJ Willey,145,DJ Willey,18,3,32,3.0,127.0,171.0,7,2.57,56.25,9.38,8.08,57.0,42.33,3.0,0.0
+Dawid Malan,All-Rounder,15000000,Punjab Kings,2021.0,Overseas,Dawid Malan,DJ Malan,141,DJ Malan,26,2,26,0.0,0.0,0.0,1,26.0,100.0,7.69,0.0,0.0,0.0,1.0,0.0
+Deepak Chahar,All-Rounder,1000000,Rising Pune Supergiant,2016.0,Indian,Deepak Chahar,DL Chahar,148,DL Chahar,79,8,59,59.0,1385.0,1739.0,63,1.25,133.9,13.56,7.53,29.47,23.47,10.0,0.0
+Deepak Chahar,All-Rounder,8000000,Chennai Super Kings,2018.0,Indian,Deepak Chahar,DL Chahar,148,DL Chahar,79,8,59,59.0,1385.0,1739.0,63,1.25,133.9,13.56,7.53,29.47,23.47,10.0,0.0
+Deepak Chahar,Bowler,140000000,Chennai Super Kings,2022.0,Indian,Deepak Chahar,DL Chahar,148,DL Chahar,79,8,59,59.0,1385.0,1739.0,63,1.25,133.9,13.56,7.53,29.47,23.47,10.0,0.0
+Deepak Hooda,Bowler,4000000,Rajasthan Royals,2014.0,Indian,Deepak Hooda,DJ Hooda,138,DJ Hooda,1237,133,970,10.0,359.0,505.0,80,15.46,127.53,13.71,8.44,50.5,35.9,42.0,0.0
+Deepak Hooda,All-Rounder,42000000,Sunrisers Hyderabad,2016.0,Indian,Deepak Hooda,DJ Hooda,138,DJ Hooda,1237,133,970,10.0,359.0,505.0,80,15.46,127.53,13.71,8.44,50.5,35.9,42.0,0.0
+Deepak Hooda,All-Rounder,36000000,Sunrisers Hyderabad,2018.0,Indian,Deepak Hooda,DJ Hooda,138,DJ Hooda,1237,133,970,10.0,359.0,505.0,80,15.46,127.53,13.71,8.44,50.5,35.9,42.0,0.0
+Deepak Hooda,All-Rounder,5000000,Kings XI Punjab,2020.0,Indian,Deepak Hooda,DJ Hooda,138,DJ Hooda,1237,133,970,10.0,359.0,505.0,80,15.46,127.53,13.71,8.44,50.5,35.9,42.0,0.0
+Deepak Hooda,All-Rounder,57500000,Lucknow Super Giants,2022.0,Indian,Deepak Hooda,DJ Hooda,138,DJ Hooda,1237,133,970,10.0,359.0,505.0,80,15.46,127.53,13.71,8.44,50.5,35.9,42.0,0.0
+Devdutt Padikkal,Batsman,2000000,Royal Challengers Bangalore,2019.0,Indian,Devdutt Padikkal,D Padikkal,124,D Padikkal,1260,172,1057,0.0,0.0,0.0,46,27.39,119.21,16.27,0.0,0.0,0.0,20.0,0.0
+Devdutt Padikkal,Batsman,77500000,Rajasthan Royals,2022.0,Indian,Devdutt Padikkal,D Padikkal,124,D Padikkal,1260,172,1057,0.0,0.0,0.0,46,27.39,119.21,16.27,0.0,0.0,0.0,20.0,0.0
+Devon Conway,Batsman,10000000,Chennai Super Kings,2022.0,Overseas,Devon Conway,DP Conway,152,DP Conway,252,35,176,0.0,0.0,0.0,7,36.0,143.18,19.89,0.0,0.0,0.0,2.0,0.0
+Dewald Brevis,Batsman,30000000,Mumbai Indians,2022.0,Overseas,Dewald Brevis,D Brevis,122,D Brevis,161,25,116,1.0,3.0,8.0,7,23.0,138.79,21.55,16.0,8.0,3.0,3.0,0.0
+Dhawal Kulkarni,Bowler,11000000,Rajasthan Royals,2014.0,Indian,Dhawal Kulkarni,DS Kulkarni,160,DS Kulkarni,104,9,113,86.0,1876.0,2513.0,92,1.13,92.04,7.96,8.04,29.22,21.81,18.0,0.0
+Dhawal Kulkarni,Bowler,20000000,Gujarat Lions,2016.0,Indian,Dhawal Kulkarni,DS Kulkarni,160,DS Kulkarni,104,9,113,86.0,1876.0,2513.0,92,1.13,92.04,7.96,8.04,29.22,21.81,18.0,0.0
+Dhawal Kulkarni,Bowler,7500000,Rajasthan Royals,2018.0,Indian,Dhawal Kulkarni,DS Kulkarni,160,DS Kulkarni,104,9,113,86.0,1876.0,2513.0,92,1.13,92.04,7.96,8.04,29.22,21.81,18.0,0.0
+Dhruv Shorey,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,Dhruv Shorey,DR Shorey,158,DR Shorey,13,1,20,0.0,0.0,0.0,2,6.5,65.0,5.0,0.0,0.0,0.0,6.0,0.0
+Dinesh Salunkhe,All-Rounder,1000000,Rajasthan Royals,2015.0,Indian,Dinesh Salunkhe,D Salunkhe,126,D Salunkhe,33,5,24,1.0,51.0,80.0,5,6.6,137.5,20.83,9.41,79.99,50.99,2.0,0.0
+Dirk Nannes,Bowler,45000000,Chennai Super Kings,2013.0,Overseas,Dirk Nannes,DP Nannes,153,DP Nannes,4,0,13,28.0,689.0,815.0,29,0.14,30.77,0.0,7.1,29.11,24.61,8.0,0.0
+Dishant Yagnik,Wicket Keeper,3000000,Rajasthan Royals,2014.0,Indian,Dishant Yagnik,DH Yagnik,135,DH Yagnik,170,25,142,0.0,0.0,0.0,17,10.0,119.72,17.61,0.0,0.0,0.0,12.0,5.0
+Domnic Joseph Muthuswamy,Bowler,7500000,Delhi Daredevils,2015.0,Overseas,Domnic Joseph Muthuswamy,DJ Muthuswami,143,DJ Muthuswami,1,0,3,4.0,84.0,108.0,6,0.17,33.33,0.0,7.71,27.0,21.0,0.0,0.0
+Dushmanta Chameera,Bowler,20000000,Lucknow Super Giants,2022.0,Overseas,Dushmanta Chameera,PVD Chameera,400,PVD Chameera,43,6,32,9.0,278.0,393.0,12,3.58,134.38,18.75,8.48,43.67,30.89,2.0,0.0
+Dushmantha Chameera,Bowler,5000000,Rajasthan Royals,2018.0,Overseas,Dushmantha Chameera,PVD Chameera,400,PVD Chameera,43,6,32,9.0,278.0,393.0,12,3.58,134.38,18.75,8.48,43.67,30.89,2.0,0.0
+Dwaine Pretorius,All-Rounder,5000000,Chennai Super Kings,2022.0,Overseas,Dwaine Pretorius,D Pretorius,125,D Pretorius,44,6,28,6.0,138.0,213.0,6,7.33,157.14,21.43,9.26,35.5,23.0,2.0,0.0
+Dwayne Bravo,All-Rounder,64000000,Chennai Super Kings,2018.0,Overseas,Dwayne Bravo,DJ Bravo,136,DJ Bravo,1560,186,1247,183.0,3296.0,4436.0,160,9.75,125.1,14.92,8.08,24.24,18.01,69.0,0.0
+Dwayne Bravo,All-Rounder,44000000,Chennai Super Kings,2022.0,Overseas,Dwayne Bravo,DJ Bravo,136,DJ Bravo,1560,186,1247,183.0,3296.0,4436.0,160,9.75,125.1,14.92,8.08,24.24,18.01,69.0,0.0
+Dwayne Smith,Batsman,45000000,Chennai Super Kings,2014.0,Overseas,Dwayne Smith,DR Smith,159,DR Smith,2385,362,1803,26.0,557.0,825.0,91,26.21,132.28,20.08,8.89,31.73,21.42,41.0,0.0
+Dwayne Smith,All-Rounder,23000000,Gujarat Lions,2016.0,Overseas,Dwayne Smith,DR Smith,159,DR Smith,2385,362,1803,26.0,557.0,825.0,91,26.21,132.28,20.08,8.89,31.73,21.42,41.0,0.0
+Eklavya Dwivedi,Wicket Keeper,1000000,Chennai Super Kings,2015.0,Indian,Eklavya Dwivedi,ER Dwivedi,167,ER Dwivedi,24,4,15,0.0,0.0,0.0,2,12.0,160.0,26.67,0.0,0.0,0.0,2.0,0.0
+Eklavya Dwivedi,Wicket Keeper,10000000,Gujarat Lions,2016.0,Indian,Eklavya Dwivedi,ER Dwivedi,167,ER Dwivedi,24,4,15,0.0,0.0,0.0,2,12.0,160.0,26.67,0.0,0.0,0.0,2.0,0.0
+Eklavya Dwivedi,Wicket Keeper,7500000,Sunrisers Hyderabad,2017.0,Indian,Eklavya Dwivedi,ER Dwivedi,167,ER Dwivedi,24,4,15,0.0,0.0,0.0,2,12.0,160.0,26.67,0.0,0.0,0.0,2.0,0.0
+Eoin Morgan,Batsman,15000000,Sunrisers Hyderabad,2015.0,Overseas,Eoin Morgan,EJG Morgan,166,EJG Morgan,1406,176,1181,0.0,0.0,0.0,74,19.0,119.05,14.9,0.0,0.0,0.0,36.0,0.0
+Eoin Morgan,Batsman,20000000,Kings XI Punjab,2017.0,Overseas,Eoin Morgan,EJG Morgan,166,EJG Morgan,1406,176,1181,0.0,0.0,0.0,74,19.0,119.05,14.9,0.0,0.0,0.0,36.0,0.0
+Eoin Morgan,Batsman,52500000,Kolkata Knight Riders,2020.0,Overseas,Eoin Morgan,EJG Morgan,166,EJG Morgan,1406,176,1181,0.0,0.0,0.0,74,19.0,119.05,14.9,0.0,0.0,0.0,36.0,0.0
+Evin Lewis,Batsman,38000000,Mumbai Indians,2018.0,Overseas,Evin Lewis,E Lewis,165,E Lewis,654,98,499,0.0,0.0,0.0,26,25.15,131.06,19.64,0.0,0.0,0.0,9.0,0.0
+Evin Lewis,Batsman,20000000,Lucknow Super Giants,2022.0,Overseas,Evin Lewis,E Lewis,165,E Lewis,654,98,499,0.0,0.0,0.0,26,25.15,131.06,19.64,0.0,0.0,0.0,9.0,0.0
+Fabian Allen,All-Rounder,5000000,Sunrisers Hyderabad,2020.0,Overseas,Fabian Allen,FA Allen,170,FA Allen,14,1,19,2.0,91.0,136.0,5,2.8,73.68,5.26,8.97,68.0,45.5,2.0,0.0
+Fabian Allen,All-Rounder,7500000,Punjab Kings,2021.0,Overseas,Fabian Allen,FA Allen,170,FA Allen,14,1,19,2.0,91.0,136.0,5,2.8,73.68,5.26,8.97,68.0,45.5,2.0,0.0
+Fabian Allen,All-Rounder,7500000,Mumbai Indians,2022.0,Overseas,Fabian Allen,FA Allen,170,FA Allen,14,1,19,2.0,91.0,136.0,5,2.8,73.68,5.26,8.97,68.0,45.5,2.0,0.0
+Faf Du Plessis,Batsman,47500000,Chennai Super Kings,2014.0,Overseas,Faf Du Plessis,F du Plessis,169,F du Plessis,3403,424,2676,0.0,6.0,16.0,109,31.22,127.17,15.84,16.0,160000.0,60000.0,71.0,0.0
+Faf Du Plessis,Batsman,16000000,Chennai Super Kings,2018.0,Overseas,Faf Du Plessis,F du Plessis,169,F du Plessis,3403,424,2676,0.0,6.0,16.0,109,31.22,127.17,15.84,16.0,160000.0,60000.0,71.0,0.0
+Faf Du Plessis,Batsman,70000000,Royal Challengers Bangalore,2022.0,Overseas,Faf Du Plessis,F du Plessis,169,F du Plessis,3403,424,2676,0.0,6.0,16.0,109,31.22,127.17,15.84,16.0,160000.0,60000.0,71.0,0.0
+Farhaan Behardien,All-Rounder,3000000,Kings XI Punjab,2016.0,Overseas,Farhaan Behardien,F Behardien,168,F Behardien,14,2,13,0.0,0.0,0.0,3,4.67,107.69,15.38,0.0,0.0,0.0,1.0,0.0
+Fazalhaq Farooqi,Bowler,5000000,Sunrisers Hyderabad,2022.0,Overseas,Fazalhaq Farooqi,Fazalhaq Farooqi,173,Fazalhaq Farooqi,2,0,8,2.0,76.0,110.0,3,0.67,25.0,0.0,8.68,55.0,38.0,0.0,0.0
+Fidel Edwards,Bowler,15750000,Rajasthan Royals,2013.0,Overseas,Fidel Edwards,FH Edwards,171,FH Edwards,4,0,5,5.0,150.0,160.0,6,0.67,80.0,0.0,6.4,32.0,30.0,0.0,0.0
+Finn Allen,Batsman,8000000,Royal Challengers Bangalore,2022.0,Overseas,Finn Allen,FA Allen,170,FA Allen,14,1,19,2.0,91.0,136.0,5,2.8,73.68,5.26,8.97,68.0,45.5,2.0,0.0
+George Bailey,Batsman,32500000,Kings XI Punjab,2014.0,Overseas,George Bailey,GJ Bailey,182,GJ Bailey,663,78,552,0.0,0.0,0.0,36,18.42,120.11,14.13,0.0,0.0,0.0,12.0,0.0
+Glenn Maxwell,All-Rounder,75000000,Mumbai Indians,2013.0,Overseas,Glenn Maxwell,GJ Maxwell,183,GJ Maxwell,2320,325,1571,28.0,803.0,1087.0,109,21.28,147.68,20.69,8.12,38.82,28.68,40.0,0.0
+Glenn Maxwell,All-Rounder,60000000,Kings XI Punjab,2014.0,Overseas,Glenn Maxwell,GJ Maxwell,183,GJ Maxwell,2320,325,1571,28.0,803.0,1087.0,109,21.28,147.68,20.69,8.12,38.82,28.68,40.0,0.0
+Glenn Maxwell,All-Rounder,90000000,Delhi Daredevils,2018.0,Overseas,Glenn Maxwell,GJ Maxwell,183,GJ Maxwell,2320,325,1571,28.0,803.0,1087.0,109,21.28,147.68,20.69,8.12,38.82,28.68,40.0,0.0
+Glenn Maxwell,All-Rounder,107500000,Kings XI Punjab,2020.0,Overseas,Glenn Maxwell,GJ Maxwell,183,GJ Maxwell,2320,325,1571,28.0,803.0,1087.0,109,21.28,147.68,20.69,8.12,38.82,28.68,40.0,0.0
+Glenn Maxwell,All-Rounder,142500000,Royal Challengers Bangalore,2021.0,Overseas,Glenn Maxwell,GJ Maxwell,183,GJ Maxwell,2320,325,1571,28.0,803.0,1087.0,109,21.28,147.68,20.69,8.12,38.82,28.68,40.0,0.0
+Glenn Phillips,Wicket Keeper,15000000,Sunrisers Hyderabad,2022.0,Overseas,Glenn Phillips,GD Phillips,179,GD Phillips,26,3,33,1.0,13.0,20.0,3,8.67,78.79,9.09,9.23,20.0,13.0,1.0,0.0
+Gurkeerat Singh Mann,All-Rounder,5000000,Gujarat Titans,2022.0,Indian,Gurkeerat Singh Mann,Gurkeerat Singh,185,Gurkeerat Singh,511,66,436,5.0,82.0,97.0,32,15.97,117.2,15.14,7.1,19.4,16.4,20.0,1.0
+Gurkeerat Singh Mann,All-Rounder,7500000,Delhi Daredevils,2018.0,Indian,Gurkeerat Singh Mann,Gurkeerat Singh,185,Gurkeerat Singh,511,66,436,5.0,82.0,97.0,32,15.97,117.2,15.14,7.1,19.4,16.4,20.0,1.0
+Gurkeerat Singh Mann,All-Rounder,5000000,Royal Challengers Bangalore,2019.0,Indian,Gurkeerat Singh Mann,Gurkeerat Singh,185,Gurkeerat Singh,511,66,436,5.0,82.0,97.0,32,15.97,117.2,15.14,7.1,19.4,16.4,20.0,1.0
+Gurkeerat Singh Mann,Batsman,13000000,Kings XI Punjab,2014.0,Indian,Gurkeerat Singh Mann,Gurkeerat Singh,185,Gurkeerat Singh,511,66,436,5.0,82.0,97.0,32,15.97,117.2,15.14,7.1,19.4,16.4,20.0,1.0
+Hanuma Vihari,Batsman,1000000,Sunrisers Hyderabad,2015.0,Indian,Hanuma Vihari,GH Vihari,180,GH Vihari,284,24,331,1.0,43.0,48.0,23,12.35,85.8,7.25,6.7,48.0,43.0,6.0,0.0
+Hanuma Vihari,Batsman,20000000,Delhi Capitals,2019.0,Indian,Hanuma Vihari,GH Vihari,180,GH Vihari,284,24,331,1.0,43.0,48.0,23,12.35,85.8,7.25,6.7,48.0,43.0,6.0,0.0
+Harbhajan Singh,Bowler,20000000,Chennai Super Kings,2018.0,Indian,Harbhajan Singh,Harbhajan Singh,195,Harbhajan Singh,833,121,636,150.0,3496.0,4101.0,163,5.11,130.97,19.03,7.04,27.34,23.31,38.0,0.0
+Harbhajan Singh,Bowler,20000000,Kolkata Knight Riders,2021.0,Indian,Harbhajan Singh,Harbhajan Singh,195,Harbhajan Singh,833,121,636,150.0,3496.0,4101.0,163,5.11,130.97,19.03,7.04,27.34,23.31,38.0,0.0
+Hardik Pandya,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,Hardik Pandya,HH Pandya,191,HH Pandya,1972,257,1406,50.0,1103.0,1566.0,105,18.78,140.26,18.28,8.52,31.32,22.06,52.0,0.0
+Harpreet Brar,All-Rounder,2000000,Kings XI Punjab,2019.0,Indian,Harpreet Brar,Harpreet Brar,197,Harpreet Brar,106,11,100,9.0,296.0,379.0,15,7.07,106.0,11.0,7.68,42.11,32.89,5.0,0.0
+Harpreet Brar,All-Rounder,38000000,Punjab Kings,2022.0,Indian,Harpreet Brar,Harpreet Brar,197,Harpreet Brar,106,11,100,9.0,296.0,379.0,15,7.07,106.0,11.0,7.68,42.11,32.89,5.0,0.0
+Harry Gurney,Bowler,7500000,Kolkata Knight Riders,2019.0,Overseas,Harry Gurney,HF Gurney,189,HF Gurney,1,0,5,7.0,169.0,239.0,8,0.12,20.0,0.0,8.49,34.14,24.14,0.0,0.0
+Heinrich Klaasen,Wicket Keeper,5000000,Royal Challengers Bangalore,2019.0,Overseas,Heinrich Klaasen,H Klaasen,187,H Klaasen,66,6,58,0.0,0.0,0.0,6,11.0,113.79,10.34,0.0,0.0,0.0,4.0,4.0
+Hrithik Shokeen,All-Rounder,2000000,Mumbai Indians,2022.0,Indian,Hrithik Shokeen,HR Shokeen,193,HR Shokeen,43,5,48,2.0,94.0,130.0,5,8.6,89.58,10.42,8.3,65.0,47.0,2.0,0.0
+Imran Tahir,Bowler,10000000,Chennai Super Kings,2018.0,Overseas,Imran Tahir,Imran Tahir,207,Imran Tahir,33,5,37,82.0,1340.0,1729.0,59,0.56,89.19,13.51,7.74,21.09,16.34,8.0,0.0
+Iqbal Abdullah,All-Rounder,6500000,Rajasthan Royals,2014.0,Indian,Iqbal Abdullah,Iqbal Abdulla,208,Iqbal Abdulla,88,10,86,40.0,943.0,1125.0,48,1.83,102.33,11.63,7.16,28.12,23.57,12.0,0.0
+Iqbal Abdullah,All-Rounder,1000000,Royal Challengers Bangalore,2016.0,Indian,Iqbal Abdullah,Iqbal Abdulla,208,Iqbal Abdulla,88,10,86,40.0,943.0,1125.0,48,1.83,102.33,11.63,7.16,28.12,23.57,12.0,0.0
+Irfan Pathan,All-Rounder,24000000,Sunrisers Hyderabad,2014.0,Indian,Irfan Pathan,IK Pathan,204,IK Pathan,1150,126,985,80.0,2113.0,2711.0,102,11.27,116.75,12.79,7.7,33.89,26.41,28.0,0.0
+Irfan Pathan,All-Rounder,15000000,Chennai Super Kings,2015.0,Indian,Irfan Pathan,IK Pathan,204,IK Pathan,1150,126,985,80.0,2113.0,2711.0,102,11.27,116.75,12.79,7.7,33.89,26.41,28.0,0.0
+Irfan Pathan,All-Rounder,10000000,Rising Pune Supergiant,2016.0,Indian,Irfan Pathan,IK Pathan,204,IK Pathan,1150,126,985,80.0,2113.0,2711.0,102,11.27,116.75,12.79,7.7,33.89,26.41,28.0,0.0
+Ishan Kishan,Wicket Keeper,3500000,Gujarat Lions,2016.0,Indian,Ishan Kishan,Ishan Kishan,209,Ishan Kishan,1870,251,1444,0.0,0.0,0.0,70,26.71,129.5,17.38,0.0,0.0,0.0,33.0,2.0
+Ishan Kishan,Wicket Keeper,62000000,Mumbai Indians,2018.0,Indian,Ishan Kishan,Ishan Kishan,209,Ishan Kishan,1870,251,1444,0.0,0.0,0.0,70,26.71,129.5,17.38,0.0,0.0,0.0,33.0,2.0
+Ishan Kishan,Wicket Keeper,152500000,Mumbai Indians,2022.0,Indian,Ishan Kishan,Ishan Kishan,209,Ishan Kishan,1870,251,1444,0.0,0.0,0.0,70,26.71,129.5,17.38,0.0,0.0,0.0,33.0,2.0
+Ishank Jaggi,Batsman,1000000,Kolkata Knight Riders,2017.0,Indian,Ishank Jaggi,IR Jaggi,205,IR Jaggi,76,6,100,0.0,0.0,0.0,7,10.86,76.0,6.0,0.0,0.0,0.0,2.0,0.0
+Ishank Jaggi,Batsman,2000000,Kolkata Knight Riders,2018.0,Indian,Ishank Jaggi,IR Jaggi,205,IR Jaggi,76,6,100,0.0,0.0,0.0,7,10.86,76.0,6.0,0.0,0.0,0.0,2.0,0.0
+Ishant Sharma,Bowler,26000000,Sunrisers Hyderabad,2014.0,Indian,Ishant Sharma,Ankit Sharma,68,Ankit Sharma,87,11,69,12.0,375.0,453.0,21,4.14,126.09,15.94,7.25,37.75,31.25,4.0,0.0
+Ishant Sharma,Bowler,38000000,Rising Pune Supergiant,2016.0,Indian,Ishant Sharma,Ankit Sharma,68,Ankit Sharma,87,11,69,12.0,375.0,453.0,21,4.14,126.09,15.94,7.25,37.75,31.25,4.0,0.0
+Ishant Sharma,Bowler,11000000,Delhi Capitals,2019.0,Indian,Ishant Sharma,Ankit Sharma,68,Ankit Sharma,87,11,69,12.0,375.0,453.0,21,4.14,126.09,15.94,7.25,37.75,31.25,4.0,0.0
+Isuru Udana,All-Rounder,5000000,Royal Challengers Bangalore,2020.0,Overseas,Isuru Udana,I Udana,202,I Udana,15,2,11,8.0,182.0,286.0,10,1.5,136.36,18.18,9.43,35.75,22.75,3.0,0.0
+J Suchith,Bowler,3000000,Sunrisers Hyderabad,2021.0,Indian,J Suchith,J Suchith,212,J Suchith,70,9,62,19.0,434.0,604.0,21,3.33,112.9,14.52,8.35,31.79,22.84,17.0,0.0
+J Suchith,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,J Suchith,J Suchith,212,J Suchith,70,9,62,19.0,434.0,604.0,21,3.33,112.9,14.52,8.35,31.79,22.84,17.0,0.0
+Jacob Oram,All-Rounder,3750000,Mumbai Indians,2013.0,Overseas,Jacob Oram,JDP Oram,222,JDP Oram,106,11,110,9.0,244.0,362.0,15,7.07,96.36,10.0,8.9,40.22,27.11,7.0,0.0
+Jacques Kallis,All-Rounder,55000000,Kolkata Knight Riders,2014.0,Overseas,Jacques Kallis,JH Kallis,226,JH Kallis,2427,299,2291,65.0,1799.0,2348.0,98,24.77,105.94,13.05,7.83,36.12,27.68,30.0,0.0
+Jagadeesha Suchith,Bowler,2000000,Sunrisers Hyderabad,2022.0,Indian,Jagadeesha Suchith,J Suchith,212,J Suchith,70,9,62,19.0,434.0,604.0,21,3.33,112.9,14.52,8.35,31.79,22.84,17.0,0.0
+James Faulkner,All-Rounder,30000000,Rajasthan Royals,2013.0,Overseas,James Faulkner,JP Faulkner,237,JP Faulkner,527,59,406,61.0,1287.0,1849.0,60,8.78,129.8,14.53,8.62,30.31,21.1,16.0,0.0
+James Neesham,All-Rounder,10000000,Delhi Daredevils,2014.0,Overseas,James Neesham,JDS Neesham,223,JDS Neesham,92,8,93,8.0,222.0,342.0,14,6.57,98.92,8.6,9.24,42.75,27.75,2.0,0.0
+James Neesham,All-Rounder,5000000,Kolkata Knight Riders,2015.0,Overseas,James Neesham,JDS Neesham,223,JDS Neesham,92,8,93,8.0,222.0,342.0,14,6.57,98.92,8.6,9.24,42.75,27.75,2.0,0.0
+James Neesham,All-Rounder,5000000,Kings XI Punjab,2020.0,Overseas,James Neesham,JDS Neesham,223,JDS Neesham,92,8,93,8.0,222.0,342.0,14,6.57,98.92,8.6,9.24,42.75,27.75,2.0,0.0
+James Neesham,All-Rounder,5000000,Mumbai Indians,2021.0,Overseas,James Neesham,JDS Neesham,223,JDS Neesham,92,8,93,8.0,222.0,342.0,14,6.57,98.92,8.6,9.24,42.75,27.75,2.0,0.0
+James Neesham,All-Rounder,15000000,Rajasthan Royals,2022.0,Overseas,James Neesham,JDS Neesham,223,JDS Neesham,92,8,93,8.0,222.0,342.0,14,6.57,98.92,8.6,9.24,42.75,27.75,2.0,0.0
+Jaskaran Singh,Bowler,1000000,Rising Pune Supergiant,2016.0,Indian,Jaskaran Singh,Jaskaran Singh,242,Jaskaran Singh,8,0,11,6.0,111.0,174.0,7,1.14,72.73,0.0,9.41,29.0,18.5,0.0,0.0
+Jason Holder,Bowler,1500000,Chennai Super Kings,2013.0,Overseas,Jason Holder,JO Holder,235,JO Holder,247,30,205,49.0,873.0,1199.0,38,6.5,120.49,14.63,8.24,24.47,17.82,11.0,0.0
+Jason Holder,Bowler,7500000,Sunrisers Hyderabad,2014.0,Overseas,Jason Holder,JO Holder,235,JO Holder,247,30,205,49.0,873.0,1199.0,38,6.5,120.49,14.63,8.24,24.47,17.82,11.0,0.0
+Jason Holder,All-Rounder,7000000,Kolkata Knight Riders,2016.0,Overseas,Jason Holder,JO Holder,235,JO Holder,247,30,205,49.0,873.0,1199.0,38,6.5,120.49,14.63,8.24,24.47,17.82,11.0,0.0
+Jason Holder,All-Rounder,87500000,Lucknow Super Giants,2022.0,Overseas,Jason Holder,JO Holder,235,JO Holder,247,30,205,49.0,873.0,1199.0,38,6.5,120.49,14.63,8.24,24.47,17.82,11.0,0.0
+Jason Roy,Batsman,10000000,Gujarat Lions,2017.0,Overseas,Jason Roy,AS Roy,57,AS Roy,0,0,2,2.0,57.0,66.0,3,0.0,0.0,0.0,6.95,33.0,28.5,5.0,0.0
+Jason Roy,Batsman,15000000,Delhi Daredevils,2018.0,Overseas,Jason Roy,AS Roy,57,AS Roy,0,0,2,2.0,57.0,66.0,3,0.0,0.0,0.0,6.95,33.0,28.5,5.0,0.0
+Jason Roy,Batsman,15000000,Delhi Capitals,2020.0,Overseas,Jason Roy,AS Roy,57,AS Roy,0,0,2,2.0,57.0,66.0,3,0.0,0.0,0.0,6.95,33.0,28.5,5.0,0.0
+Jason Roy,Batsman,20000000,Gujarat Titans,2022.0,Overseas,Jason Roy,AS Roy,57,AS Roy,0,0,2,2.0,57.0,66.0,3,0.0,0.0,0.0,6.95,33.0,28.5,5.0,0.0
+Jasprit Bumrah,Bowler,12000000,Mumbai Indians,2014.0,Indian,Jasprit Bumrah,JJ Bumrah,227,JJ Bumrah,56,5,68,148.0,2857.0,3499.0,120,0.47,82.35,7.35,7.35,23.64,19.3,11.0,0.0
+Jayant Yadav,All-Rounder,1000000,Delhi Daredevils,2014.0,Indian,Jayant Yadav,J Yadav,215,J Yadav,40,3,38,8.0,374.0,421.0,19,2.11,105.26,7.89,6.75,52.62,46.75,5.0,0.0
+Jayant Yadav,All-Rounder,5000000,Delhi Daredevils,2018.0,Indian,Jayant Yadav,J Yadav,215,J Yadav,40,3,38,8.0,374.0,421.0,19,2.11,105.26,7.89,6.75,52.62,46.75,5.0,0.0
+Jayant Yadav,All-Rounder,17000000,Gujarat Titans,2022.0,Indian,Jayant Yadav,J Yadav,215,J Yadav,40,3,38,8.0,374.0,421.0,19,2.11,105.26,7.89,6.75,52.62,46.75,5.0,0.0
+Jaydev Unadkat,Bowler,39375000,Royal Challengers Bangalore,2013.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jaydev Unadkat,Bowler,28000000,Delhi Daredevils,2014.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jaydev Unadkat,Bowler,11000000,Delhi Daredevils,2015.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jaydev Unadkat,Bowler,16000000,Kolkata Knight Riders,2016.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jaydev Unadkat,Bowler,3000000,Rising Pune Supergiant,2017.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jaydev Unadkat,Bowler,115000000,Rajasthan Royals,2018.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jaydev Unadkat,Bowler,84000000,Rajasthan Royals,2019.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jaydev Unadkat,Bowler,30000000,Rajasthan Royals,2020.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jaydev Unadkat,Bowler,13000000,Mumbai Indians,2022.0,Indian,Jaydev Unadkat,JD Unadkat,221,JD Unadkat,164,19,136,91.0,1942.0,2806.0,90,1.82,120.59,13.97,8.67,30.84,21.34,19.0,0.0
+Jean-Paul Duminy,Batsman,22000000,Delhi Daredevils,2014.0,Overseas,Jean-Paul Duminy,JP Duminy,236,JP Duminy,2029,205,1680,23.0,701.0,847.0,79,25.68,120.77,12.2,7.25,36.83,30.48,30.0,0.0
+Jean-Paul Duminy,All-Rounder,10000000,Mumbai Indians,2018.0,Overseas,Jean-Paul Duminy,JP Duminy,236,JP Duminy,2029,205,1680,23.0,701.0,847.0,79,25.68,120.77,12.2,7.25,36.83,30.48,30.0,0.0
+Jesse Ryder,All-Rounder,19500000,Delhi Daredevils,2013.0,Overseas,Jesse Ryder,JD Ryder,220,JD Ryder,604,88,466,8.0,241.0,314.0,29,20.83,129.61,18.88,7.82,39.25,30.12,10.0,0.0
+Jhye Richardson,Bowler,140000000,Punjab Kings,2021.0,Overseas,Jhye Richardson,JA Richardson,217,JA Richardson,15,2,25,3.0,69.0,122.0,3,5.0,60.0,8.0,10.61,40.67,23.0,1.0,0.0
+Joe Denly,Batsman,10000000,Kolkata Knight Riders,2019.0,Overseas,Joe Denly,JL Denly,230,JL Denly,0,0,1,0.0,0.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Johan Botha,All-Rounder,33750000,Delhi Daredevils,2013.0,Overseas,Johan Botha,J Botha,211,J Botha,409,44,364,25.0,709.0,818.0,34,12.03,112.36,12.09,6.92,32.72,28.36,16.0,0.0
+Jonny Bairstow,Wicket Keeper,22000000,Sunrisers Hyderabad,2019.0,Overseas,Jonny Bairstow,JM Bairstow,232,JM Bairstow,1291,188,935,0.0,0.0,0.0,39,33.1,138.07,20.11,0.0,0.0,0.0,20.0,4.0
+Jonny Bairstow,Wicket Keeper,67500000,Punjab Kings,2022.0,Overseas,Jonny Bairstow,JM Bairstow,232,JM Bairstow,1291,188,935,0.0,0.0,0.0,39,33.1,138.07,20.11,0.0,0.0,0.0,20.0,4.0
+Jos Buttler,Wicket Keeper,38000000,Mumbai Indians,2016.0,Overseas,Jos Buttler,JC Buttler,219,JC Buttler,2832,413,1955,0.0,0.0,0.0,81,34.96,144.86,21.13,0.0,0.0,0.0,43.0,1.0
+Jos Buttler,Wicket Keeper,44000000,Rajasthan Royals,2018.0,Overseas,Jos Buttler,JC Buttler,219,JC Buttler,2832,413,1955,0.0,0.0,0.0,81,34.96,144.86,21.13,0.0,0.0,0.0,43.0,1.0
+Josh Hazlewood,Bowler,5000000,Mumbai Indians,2014.0,Overseas,Josh Hazlewood,JR Hazlewood,239,JR Hazlewood,18,1,27,32.0,565.0,754.0,24,0.75,66.67,3.7,8.01,23.56,17.66,1.0,0.0
+Josh Hazlewood,Bowler,20000000,Chennai Super Kings,2020.0,Overseas,Josh Hazlewood,JR Hazlewood,239,JR Hazlewood,18,1,27,32.0,565.0,754.0,24,0.75,66.67,3.7,8.01,23.56,17.66,1.0,0.0
+Josh Hazlewood,Bowler,77500000,Royal Challengers Bangalore,2022.0,Overseas,Josh Hazlewood,JR Hazlewood,239,JR Hazlewood,18,1,27,32.0,565.0,754.0,24,0.75,66.67,3.7,8.01,23.56,17.66,1.0,0.0
+Joshua Philippe,Wicket Keeper,2000000,Royal Challengers Bangalore,2020.0,Overseas,Joshua Philippe,JR Philippe,241,JR Philippe,78,10,80,0.0,0.0,0.0,5,15.6,97.5,12.5,0.0,0.0,0.0,0.0,0.0
+Juan Theron,Bowler,3000000,Rajasthan Royals,2015.0,Overseas,Juan Theron,J Theron,214,J Theron,10,1,13,11.0,235.0,311.0,10,1.0,76.92,7.69,7.94,28.27,21.36,1.0,0.0
+Krishnappa Gowtham,All-Rounder,9000000,Lucknow Super Giants,2022.0,Indian,Krishnappa Gowtham,K Gowtham,245,K Gowtham,186,25,115,18.0,486.0,677.0,28,6.64,161.74,21.74,8.36,37.61,27.0,14.0,0.0
+K.C Cariappa,Bowler,2000000,Rajasthan Royals,2021.0,Indian,K.C Cariappa,KC Cariappa,254,KC Cariappa,24,2,21,8.0,224.0,349.0,11,2.18,114.29,9.52,9.35,43.62,28.0,2.0,0.0
+K.C Cariappa,Bowler,3000000,Rajasthan Royals,2022.0,Indian,K.C Cariappa,KC Cariappa,254,KC Cariappa,24,2,21,8.0,224.0,349.0,11,2.18,114.29,9.52,9.35,43.62,28.0,2.0,0.0
+K.C. Cariappa,Bowler,24000000,Kolkata Knight Riders,2015.0,Indian,K.C. Cariappa,KC Cariappa,254,KC Cariappa,24,2,21,8.0,224.0,349.0,11,2.18,114.29,9.52,9.35,43.62,28.0,2.0,0.0
+K.C. Cariappa,Bowler,8000000,Kings XI Punjab,2016.0,Indian,K.C. Cariappa,KC Cariappa,254,KC Cariappa,24,2,21,8.0,224.0,349.0,11,2.18,114.29,9.52,9.35,43.62,28.0,2.0,0.0
+K.S. Bharat,Wicket Keeper,20000000,Delhi Capitals,2022.0,Indian,K.S. Bharat,KS Bharat,270,KS Bharat,199,20,168,0.0,0.0,0.0,8,24.88,118.45,11.9,0.0,0.0,0.0,4.0,1.0
+Kagiso Rabada,Bowler,50000000,Delhi Daredevils,2017.0,Overseas,Kagiso Rabada,K Rabada,247,K Rabada,186,22,188,102.0,1498.0,2023.0,63,2.95,98.94,11.7,8.1,19.83,14.69,21.0,0.0
+Kagiso Rabada,Bowler,42000000,Delhi Daredevils,2018.0,Overseas,Kagiso Rabada,K Rabada,247,K Rabada,186,22,188,102.0,1498.0,2023.0,63,2.95,98.94,11.7,8.1,19.83,14.69,21.0,0.0
+Kagiso Rabada,Bowler,92500000,Punjab Kings,2022.0,Overseas,Kagiso Rabada,K Rabada,247,K Rabada,186,22,188,102.0,1498.0,2023.0,63,2.95,98.94,11.7,8.1,19.83,14.69,21.0,0.0
+Kamlesh Nagarkoti,All-Rounder,32000000,Kolkata Knight Riders,2018.0,Indian,Kamlesh Nagarkoti,KL Nagarkoti,262,KL Nagarkoti,22,1,34,5.0,185.0,287.0,12,1.83,64.71,2.94,9.31,57.4,37.0,9.0,0.0
+Kamlesh Nagarkoti,All-Rounder,11000000,Delhi Capitals,2022.0,Indian,Kamlesh Nagarkoti,KL Nagarkoti,262,KL Nagarkoti,22,1,34,5.0,185.0,287.0,12,1.83,64.71,2.94,9.31,57.4,37.0,9.0,0.0
+Kane Richardson,Bowler,52500000,Pune Warriors India,2013.0,Overseas,Kane Richardson,JA Richardson,217,JA Richardson,15,2,25,3.0,69.0,122.0,3,5.0,60.0,8.0,10.61,40.67,23.0,1.0,0.0
+Kane Richardson,Bowler,10000000,Rajasthan Royals,2014.0,Overseas,Kane Richardson,JA Richardson,217,JA Richardson,15,2,25,3.0,69.0,122.0,3,5.0,60.0,8.0,10.61,40.67,23.0,1.0,0.0
+Kane Richardson,Bowler,20000000,Royal Challengers Bangalore,2016.0,Overseas,Kane Richardson,JA Richardson,217,JA Richardson,15,2,25,3.0,69.0,122.0,3,5.0,60.0,8.0,10.61,40.67,23.0,1.0,0.0
+Kane Richardson,Bowler,40000000,Royal Challengers Bangalore,2020.0,Overseas,Kane Richardson,JA Richardson,217,JA Richardson,15,2,25,3.0,69.0,122.0,3,5.0,60.0,8.0,10.61,40.67,23.0,1.0,0.0
+Kane Williamson,All-Rounder,6000000,Sunrisers Hyderabad,2015.0,Overseas,Kane Williamson,KS Williamson,272,KS Williamson,2105,247,1707,0.0,18.0,31.0,74,28.45,123.32,14.47,10.33,310000.0,180000.0,39.0,0.0
+Kane Williamson,Batsman,30000000,Sunrisers Hyderabad,2018.0,Overseas,Kane Williamson,KS Williamson,272,KS Williamson,2105,247,1707,0.0,18.0,31.0,74,28.45,123.32,14.47,10.33,310000.0,180000.0,39.0,0.0
+Karan Sharma,All-Rounder,2000000,Lucknow Super Giants,2022.0,Indian,Karan Sharma,R Sharma,417,R Sharma,66,8,77,40.0,935.0,1100.0,44,1.5,85.71,10.39,7.06,27.5,23.37,10.0,0.0
+Karanveer Singh,All-Rounder,1000000,Kings XI Punjab,2014.0,Indian,Karanveer Singh,Karanveer Singh,277,Karanveer Singh,12,1,17,12.0,213.0,323.0,9,1.33,70.59,5.88,9.1,26.92,17.75,2.0,0.0
+Karn Sharma,Bowler,37500000,Sunrisers Hyderabad,2014.0,Indian,Karn Sharma,R Sharma,417,R Sharma,66,8,77,40.0,935.0,1100.0,44,1.5,85.71,10.39,7.06,27.5,23.37,10.0,0.0
+Karn Sharma,All-Rounder,32000000,Mumbai Indians,2017.0,Indian,Karn Sharma,R Sharma,417,R Sharma,66,8,77,40.0,935.0,1100.0,44,1.5,85.71,10.39,7.06,27.5,23.37,10.0,0.0
+Karn Sharma,Bowler,50000000,Chennai Super Kings,2018.0,Indian,Karn Sharma,R Sharma,417,R Sharma,66,8,77,40.0,935.0,1100.0,44,1.5,85.71,10.39,7.06,27.5,23.37,10.0,0.0
+Karn Sharma,Bowler,5000000,Royal Challengers Bangalore,2022.0,Indian,Karn Sharma,R Sharma,417,R Sharma,66,8,77,40.0,935.0,1100.0,44,1.5,85.71,10.39,7.06,27.5,23.37,10.0,0.0
+Kartik Tyagi,Bowler,13000000,Rajasthan Royals,2020.0,Indian,Kartik Tyagi,Kartik Tyagi,278,Kartik Tyagi,13,1,16,14.0,388.0,576.0,16,0.81,81.25,6.25,8.91,41.14,27.71,3.0,0.0
+Kartik Tyagi,Bowler,40000000,Sunrisers Hyderabad,2022.0,Indian,Kartik Tyagi,Kartik Tyagi,278,Kartik Tyagi,13,1,16,14.0,388.0,576.0,16,0.81,81.25,6.25,8.91,41.14,27.71,3.0,0.0
+Karun Nair,Batsman,7500000,Rajasthan Royals,2014.0,Indian,Karun Nair,KK Nair,261,KK Nair,1496,200,1192,0.0,0.0,0.0,68,22.0,125.5,16.78,0.0,0.0,0.0,26.0,0.0
+Karun Nair,Batsman,40000000,Delhi Daredevils,2016.0,Indian,Karun Nair,KK Nair,261,KK Nair,1496,200,1192,0.0,0.0,0.0,68,22.0,125.5,16.78,0.0,0.0,0.0,26.0,0.0
+Karun Nair,Batsman,56000000,Kings XI Punjab,2018.0,Indian,Karun Nair,KK Nair,261,KK Nair,1496,200,1192,0.0,0.0,0.0,68,22.0,125.5,16.78,0.0,0.0,0.0,26.0,0.0
+Karun Nair,Batsman,5000000,Kolkata Knight Riders,2021.0,Indian,Karun Nair,KK Nair,261,KK Nair,1496,200,1192,0.0,0.0,0.0,68,22.0,125.5,16.78,0.0,0.0,0.0,26.0,0.0
+Karun Nair,Batsman,14000000,Rajasthan Royals,2022.0,Indian,Karun Nair,KK Nair,261,KK Nair,1496,200,1192,0.0,0.0,0.0,68,22.0,125.5,16.78,0.0,0.0,0.0,26.0,0.0
+Kedar Jadhav,Batsman,20000000,Delhi Daredevils,2014.0,Indian,Kedar Jadhav,KM Jadhav,264,KM Jadhav,1196,141,1002,0.0,0.0,0.0,80,14.95,119.36,14.07,0.0,0.0,0.0,30.0,7.0
+Kedar Jadhav,All-Rounder,78000000,Chennai Super Kings,2018.0,Indian,Kedar Jadhav,KM Jadhav,264,KM Jadhav,1196,141,1002,0.0,0.0,0.0,80,14.95,119.36,14.07,0.0,0.0,0.0,30.0,7.0
+Kedar Jadhav,All-Rounder,20000000,Sunrisers Hyderabad,2021.0,Indian,Kedar Jadhav,KM Jadhav,264,KM Jadhav,1196,141,1002,0.0,0.0,0.0,80,14.95,119.36,14.07,0.0,0.0,0.0,30.0,7.0
+Keemo Paul,All-Rounder,5000000,Delhi Capitals,2019.0,Overseas,Keemo Paul,KMA Paul,265,KMA Paul,18,2,26,9.0,180.0,239.0,8,2.25,69.23,7.69,7.97,26.56,20.0,6.0,0.0
+Kevin Pietersen,Batsman,90000000,Delhi Daredevils,2014.0,Overseas,Kevin Pietersen,KP Pietersen,268,KP Pietersen,1001,131,758,7.0,180.0,218.0,36,27.81,132.06,17.28,7.27,31.14,25.71,12.0,0.0
+Kevin Pietersen,Batsman,20000000,Sunrisers Hyderabad,2015.0,Overseas,Kevin Pietersen,KP Pietersen,268,KP Pietersen,1001,131,758,7.0,180.0,218.0,36,27.81,132.06,17.28,7.27,31.14,25.71,12.0,0.0
+Kevin Pietersen,Batsman,35000000,Rising Pune Supergiant,2016.0,Overseas,Kevin Pietersen,KP Pietersen,268,KP Pietersen,1001,131,758,7.0,180.0,218.0,36,27.81,132.06,17.28,7.27,31.14,25.71,12.0,0.0
+Kevon Cooper,All-Rounder,3000000,Rajasthan Royals,2014.0,Overseas,Kevon Cooper,KK Cooper,260,KK Cooper,116,17,70,33.0,600.0,789.0,25,4.64,165.71,24.29,7.89,23.91,18.18,11.0,0.0
+Kieron Pollard,All-Rounder,54000000,Mumbai Indians,2018.0,Overseas,Kieron Pollard,KA Pollard,251,KA Pollard,3437,445,2447,69.0,1586.0,2200.0,179,19.2,140.46,18.19,8.32,31.88,22.99,97.0,0.0
+KL Rahul,Batsman,10000000,Sunrisers Hyderabad,2014.0,Indian,KL Rahul,KL Rahul,263,KL Rahul,3895,491,2933,0.0,0.0,0.0,99,39.34,132.8,16.74,0.0,0.0,0.0,59.0,5.0
+KL Rahul,Batsman,110000000,Kings XI Punjab,2018.0,Indian,KL Rahul,KL Rahul,263,KL Rahul,3895,491,2933,0.0,0.0,0.0,99,39.34,132.8,16.74,0.0,0.0,0.0,59.0,5.0
+Kona Srikar Bharat,Wicket Keeper,1000000,Delhi Daredevils,2015.0,Indian,Kona Srikar Bharat,KS Bharat,270,KS Bharat,199,20,168,0.0,0.0,0.0,8,24.88,118.45,11.9,0.0,0.0,0.0,4.0,1.0
+Kona Srikar Bharat,Wicket Keeper,2000000,Royal Challengers Bangalore,2021.0,Indian,Kona Srikar Bharat,KS Bharat,270,KS Bharat,199,20,168,0.0,0.0,0.0,8,24.88,118.45,11.9,0.0,0.0,0.0,4.0,1.0
+Krishnappa Gowtham,All-Rounder,20000000,Mumbai Indians,2017.0,Indian,Krishnappa Gowtham,K Gowtham,245,K Gowtham,186,25,115,18.0,486.0,677.0,28,6.64,161.74,21.74,8.36,37.61,27.0,14.0,0.0
+Krishnappa Gowtham,Bowler,62000000,Rajasthan Royals,2018.0,Indian,Krishnappa Gowtham,K Gowtham,245,K Gowtham,186,25,115,18.0,486.0,677.0,28,6.64,161.74,21.74,8.36,37.61,27.0,14.0,0.0
+Krishnappa Gowtham,All-Rounder,92500000,Chennai Super Kings,2021.0,Indian,Krishnappa Gowtham,K Gowtham,245,K Gowtham,186,25,115,18.0,486.0,677.0,28,6.64,161.74,21.74,8.36,37.61,27.0,14.0,0.0
+Krunal Pandya,All-Rounder,20000000,Mumbai Indians,2016.0,Indian,Krunal Pandya,KH Pandya,257,KH Pandya,1326,171,1003,61.0,1725.0,2066.0,98,13.53,132.2,17.05,7.19,33.87,28.28,30.0,0.0
+Krunal Pandya,All-Rounder,88000000,Mumbai Indians,2018.0,Indian,Krunal Pandya,KH Pandya,257,KH Pandya,1326,171,1003,61.0,1725.0,2066.0,98,13.53,132.2,17.05,7.19,33.87,28.28,30.0,0.0
+Krunal Pandya,All-Rounder,82500000,Lucknow Super Giants,2022.0,Indian,Krunal Pandya,KH Pandya,257,KH Pandya,1326,171,1003,61.0,1725.0,2066.0,98,13.53,132.2,17.05,7.19,33.87,28.28,30.0,0.0
+Kshitiz Sharma,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,Kshitiz Sharma,KS Sharma,271,KS Sharma,4,1,4,0.0,0.0,0.0,1,4.0,100.0,25.0,0.0,0.0,0.0,0.0,0.0
+Kuldeep Yadav,Bowler,4000000,Kolkata Knight Riders,2014.0,Indian,Kuldeep Yadav,Kuldeep Yadav,279,Kuldeep Yadav,105,10,130,61.0,1219.0,1671.0,59,1.78,80.77,7.69,8.22,27.39,19.98,10.0,0.0
+Kuldeep Yadav,Bowler,58000000,Kolkata Knight Riders,2018.0,Indian,Kuldeep Yadav,Kuldeep Yadav,279,Kuldeep Yadav,105,10,130,61.0,1219.0,1671.0,59,1.78,80.77,7.69,8.22,27.39,19.98,10.0,0.0
+Kuldeep Yadav,Bowler,20000000,Delhi Capitals,2022.0,Indian,Kuldeep Yadav,Kuldeep Yadav,279,Kuldeep Yadav,105,10,130,61.0,1219.0,1671.0,59,1.78,80.77,7.69,8.22,27.39,19.98,10.0,0.0
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2021.0,Indian,Kuldip Yadav,Kuldeep Yadav,279,Kuldeep Yadav,105,10,130,61.0,1219.0,1671.0,59,1.78,80.77,7.69,8.22,27.39,19.98,10.0,0.0
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2022.0,Indian,Kuldip Yadav,Kuldeep Yadav,279,Kuldeep Yadav,105,10,130,61.0,1219.0,1671.0,59,1.78,80.77,7.69,8.22,27.39,19.98,10.0,0.0
+Kusal Janith Perera,Wicket Keeper,1500000,Rajasthan Royals,2013.0,Indian,Kusal Janith Perera,NLTC Perera,365,NLTC Perera,424,49,326,31.0,715.0,1031.0,37,11.46,130.06,15.03,8.65,33.26,23.06,13.0,0.0
+Kyle Abbott,Bowler,3000000,Chennai Super Kings,2015.0,Overseas,Kyle Abbott,KJ Abbott,258,KJ Abbott,13,1,8,2.0,102.0,182.0,5,2.6,162.5,12.5,10.71,91.0,51.0,0.0,0.0
+Kyle Abbott,Bowler,21000000,Kings XI Punjab,2016.0,Overseas,Kyle Abbott,KJ Abbott,258,KJ Abbott,13,1,8,2.0,102.0,182.0,5,2.6,162.5,12.5,10.71,91.0,51.0,0.0,0.0
+Kyle Jamieson,All-Rounder,150000000,Royal Challengers Bangalore,2021.0,Overseas,Kyle Jamieson,KA Jamieson,250,KA Jamieson,65,8,55,9.0,179.0,271.0,9,7.22,118.18,14.55,9.08,30.11,19.89,2.0,0.0
+Lalit Yadav,All-Rounder,2000000,Delhi Capitals,2020.0,Indian,Lalit Yadav,Lalit Yadav,293,Lalit Yadav,229,25,227,8.0,194.0,253.0,17,13.47,100.88,11.01,7.82,31.62,24.25,14.0,0.0
+Lalit Yadav,All-Rounder,6500000,Delhi Capitals,2022.0,Indian,Lalit Yadav,Lalit Yadav,293,Lalit Yadav,229,25,227,8.0,194.0,253.0,17,13.47,100.88,11.01,7.82,31.62,24.25,14.0,0.0
+Laxmi Ratan Shukla,All-Rounder,15000000,Delhi Daredevils,2014.0,Indian,Laxmi Ratan Shukla,LR Shukla,290,LR Shukla,405,49,358,15.0,326.0,458.0,43,9.42,113.13,13.69,8.43,30.53,21.73,15.0,0.0
+Laxmi Ratan Shukla,All-Rounder,3000000,Sunrisers Hyderabad,2015.0,Indian,Laxmi Ratan Shukla,LR Shukla,290,LR Shukla,405,49,358,15.0,326.0,458.0,43,9.42,113.13,13.69,8.43,30.53,21.73,15.0,0.0
+Liam Livingstone,All-Rounder,5000000,Rajasthan Royals,2019.0,Overseas,Liam Livingstone,LS Livingstone,292,LS Livingstone,549,78,352,6.0,150.0,215.0,23,23.87,155.97,22.16,8.6,35.83,25.0,12.0,0.0
+Liam Livingstone,All-Rounder,7500000,Rajasthan Royals,2021.0,Overseas,Liam Livingstone,LS Livingstone,292,LS Livingstone,549,78,352,6.0,150.0,215.0,23,23.87,155.97,22.16,8.6,35.83,25.0,12.0,0.0
+Liam Livingstone,All-Rounder,115000000,Punjab Kings,2022.0,Overseas,Liam Livingstone,LS Livingstone,292,LS Livingstone,549,78,352,6.0,150.0,215.0,23,23.87,155.97,22.16,8.6,35.83,25.0,12.0,0.0
+Lockie Ferguson,Bowler,5000000,Rising Pune Supergiant,2017.0,Overseas,Lockie Ferguson,LH Ferguson,286,LH Ferguson,67,8,47,38.0,805.0,1093.0,35,1.91,142.55,17.02,8.15,28.76,21.18,5.0,0.0
+Lockie Ferguson,Bowler,16000000,Kolkata Knight Riders,2019.0,Overseas,Lockie Ferguson,LH Ferguson,286,LH Ferguson,67,8,47,38.0,805.0,1093.0,35,1.91,142.55,17.02,8.15,28.76,21.18,5.0,0.0
+Lockie Ferguson,Bowler,100000000,Gujarat Titans,2022.0,Overseas,Lockie Ferguson,LH Ferguson,286,LH Ferguson,67,8,47,38.0,805.0,1093.0,35,1.91,142.55,17.02,8.15,28.76,21.18,5.0,0.0
+Luke Pomersbach,Batsman,22500000,Kings XI Punjab,2013.0,Overseas,Luke Pomersbach,LA Pomersbach,284,LA Pomersbach,302,38,251,0.0,0.0,0.0,16,18.88,120.32,15.14,0.0,0.0,0.0,8.0,0.0
+M. Ashwin,Bowler,45000000,Rising Pune Supergiant,2016.0,Indian,M. Ashwin,M Ashwin,294,M Ashwin,35,3,50,35.0,873.0,1129.0,42,0.83,70.0,6.0,7.76,32.26,24.94,7.0,0.0
+M. Ashwin,Bowler,10000000,Delhi Daredevils,2017.0,Indian,M. Ashwin,M Ashwin,294,M Ashwin,35,3,50,35.0,873.0,1129.0,42,0.83,70.0,6.0,7.76,32.26,24.94,7.0,0.0
+M. Ashwin,Bowler,22000000,Royal Challengers Bangalore,2018.0,Indian,M. Ashwin,M Ashwin,294,M Ashwin,35,3,50,35.0,873.0,1129.0,42,0.83,70.0,6.0,7.76,32.26,24.94,7.0,0.0
+M. Ashwin,Bowler,2000000,Kings XI Punjab,2019.0,Indian,M. Ashwin,M Ashwin,294,M Ashwin,35,3,50,35.0,873.0,1129.0,42,0.83,70.0,6.0,7.76,32.26,24.94,7.0,0.0
+Washington Sundar,All-Rounder,32000000,Royal Challengers Bangalore,2018.0,Indian,Washington Sundar,Washington Sundar,589,Washington Sundar,318,35,278,33.0,928.0,1116.0,50,6.36,114.39,12.59,7.22,33.82,28.12,9.0,0.0
+Maheesh Theekshana,Bowler,7000000,Chennai Super Kings,2022.0,Overseas,Maheesh Theekshana,M Theekshana,307,M Theekshana,7,1,7,12.0,212.0,267.0,9,0.78,100.0,14.29,7.56,22.25,17.67,0.0,0.0
+Mahipal Lomror,All-Rounder,1000000,Delhi Daredevils,2016.0,Indian,Mahipal Lomror,MK Lomror,327,MK Lomror,267,28,214,1.0,73.0,92.0,17,15.71,124.77,13.08,7.56,91.99,72.99,4.0,0.0
+Mahipal Lomror,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,Mahipal Lomror,MK Lomror,327,MK Lomror,267,28,214,1.0,73.0,92.0,17,15.71,124.77,13.08,7.56,91.99,72.99,4.0,0.0
+Mahipal Lomror,All-Rounder,9500000,Royal Challengers Bangalore,2022.0,Indian,Mahipal Lomror,MK Lomror,327,MK Lomror,267,28,214,1.0,73.0,92.0,17,15.71,124.77,13.08,7.56,91.99,72.99,4.0,0.0
+Manan Vohra,Batsman,11000000,Royal Challengers Bangalore,2018.0,Indian,Manan Vohra,M Vohra,309,M Vohra,1073,146,852,0.0,0.0,0.0,50,21.46,125.94,17.14,0.0,0.0,0.0,13.0,0.0
+Manan Vohra,Batsman,2000000,Rajasthan Royals,2019.0,Indian,Manan Vohra,M Vohra,309,M Vohra,1073,146,852,0.0,0.0,0.0,50,21.46,125.94,17.14,0.0,0.0,0.0,13.0,0.0
+Manan Vohra,Batsman,2000000,Lucknow Super Giants,2022.0,Indian,Manan Vohra,M Vohra,309,M Vohra,1073,146,852,0.0,0.0,0.0,50,21.46,125.94,17.14,0.0,0.0,0.0,13.0,0.0
+Mandeep Hardev Singh,All-Rounder,8000000,Kings XI Punjab,2014.0,Indian,Mandeep Hardev Singh,Ramandeep Singh,453,Ramandeep Singh,45,4,42,6.0,41.0,55.0,5,9.0,107.14,9.52,8.05,9.17,6.83,0.0,0.0
+Mandeep Singh,All-Rounder,14000000,Royal Challengers Bangalore,2018.0,Indian,Mandeep Singh,Mandeep Singh,343,Mandeep Singh,1692,213,1402,0.0,12.0,26.0,94,18.0,120.68,15.19,13.0,260000.0,120000.0,38.0,0.0
+Mandeep Singh,Batsman,11000000,Delhi Capitals,2022.0,Indian,Mandeep Singh,Mandeep Singh,343,Mandeep Singh,1692,213,1402,0.0,12.0,26.0,94,18.0,120.68,15.19,13.0,260000.0,120000.0,38.0,0.0
+Manoj Tiwary,Batsman,28000000,Delhi Daredevils,2014.0,Indian,Manoj Tiwary,MK Tiwary,329,MK Tiwary,1695,196,1489,1.0,45.0,83.0,85,19.94,113.83,13.16,11.07,82.99,45.0,47.0,0.0
+Manoj Tiwary,Batsman,5000000,Rising Pune Supergiant,2017.0,Indian,Manoj Tiwary,MK Tiwary,329,MK Tiwary,1695,196,1489,1.0,45.0,83.0,85,19.94,113.83,13.16,11.07,82.99,45.0,47.0,0.0
+Manoj Tiwary,Batsman,10000000,Kings XI Punjab,2018.0,Indian,Manoj Tiwary,MK Tiwary,329,MK Tiwary,1695,196,1489,1.0,45.0,83.0,85,19.94,113.83,13.16,11.07,82.99,45.0,47.0,0.0
+Manpreet Gony,Bowler,37500000,Kings XI Punjab,2013.0,Indian,Manpreet Gony,MS Gony,340,MS Gony,99,14,76,37.0,925.0,1317.0,44,2.25,130.26,18.42,8.54,35.59,25.0,4.0,0.0
+Manpreet Gony,Bowler,6000000,Gujarat Lions,2017.0,Indian,Manpreet Gony,MS Gony,340,MS Gony,99,14,76,37.0,925.0,1317.0,44,2.25,130.26,18.42,8.54,35.59,25.0,4.0,0.0
+Manprit Juneja,Batsman,1000000,Sunrisers Hyderabad,2014.0,Indian,Manprit Juneja,MC Juneja,316,MC Juneja,125,12,134,0.0,0.0,0.0,7,17.86,93.28,8.96,0.0,0.0,0.0,0.0,0.0
+Manvinder Bisla,Wicket Keeper,6000000,Kolkata Knight Riders,2014.0,Indian,Manvinder Bisla,MS Bisla,338,MS Bisla,798,116,737,0.0,0.0,0.0,39,20.46,108.28,15.74,0.0,0.0,0.0,20.0,7.0
+Marchant De Lange,Bowler,3000000,Mumbai Indians,2014.0,Overseas,Marchant De Lange,M de Lange,310,M de Lange,1,0,2,5.0,116.0,171.0,5,0.2,50.0,0.0,8.84,34.2,23.2,0.0,0.0
+Marco Jansen,All-Rounder,2000000,Mumbai Indians,2021.0,Overseas,Marco Jansen,M Jansen,295,M Jansen,9,1,11,9.0,241.0,325.0,10,0.9,81.82,9.09,8.09,36.11,26.78,4.0,0.0
+Marco Jansen,All-Rounder,42000000,Sunrisers Hyderabad,2022.0,Overseas,Marco Jansen,M Jansen,295,M Jansen,9,1,11,9.0,241.0,325.0,10,0.9,81.82,9.09,8.09,36.11,26.78,4.0,0.0
+Marcus Stoinis,All-Rounder,2500000,Delhi Daredevils,2015.0,Overseas,Marcus Stoinis,MP Stoinis,336,MP Stoinis,1070,131,813,34.0,675.0,1072.0,67,15.97,131.61,16.11,9.53,31.53,19.85,16.0,0.0
+Marcus Stoinis,All-Rounder,5500000,Kings XI Punjab,2016.0,Overseas,Marcus Stoinis,MP Stoinis,336,MP Stoinis,1070,131,813,34.0,675.0,1072.0,67,15.97,131.61,16.11,9.53,31.53,19.85,16.0,0.0
+Marcus Stoinis,All-Rounder,62000000,Kings XI Punjab,2018.0,Overseas,Marcus Stoinis,MP Stoinis,336,MP Stoinis,1070,131,813,34.0,675.0,1072.0,67,15.97,131.61,16.11,9.53,31.53,19.85,16.0,0.0
+Marcus Stoinis,All-Rounder,48000000,Delhi Capitals,2020.0,Overseas,Marcus Stoinis,MP Stoinis,336,MP Stoinis,1070,131,813,34.0,675.0,1072.0,67,15.97,131.61,16.11,9.53,31.53,19.85,16.0,0.0
+Mark Wood,Bowler,15000000,Chennai Super Kings,2018.0,Overseas,Mark Wood,MA Wood,314,MA Wood,1,0,5,0.0,25.0,50.0,1,1.0,20.0,0.0,12.0,500000.0,250000.0,1.0,0.0
+Mark Wood,Bowler,75000000,Lucknow Super Giants,2022.0,Overseas,Mark Wood,MA Wood,314,MA Wood,1,0,5,0.0,25.0,50.0,1,1.0,20.0,0.0,12.0,500000.0,250000.0,1.0,0.0
+Martin Guptill,Batsman,5000000,Kings XI Punjab,2017.0,Overseas,Martin Guptill,MJ Guptill,323,MJ Guptill,271,39,197,0.0,0.0,0.0,13,20.85,137.56,19.8,0.0,0.0,0.0,7.0,0.0
+Martin Guptill,Batsman,10000000,Sunrisers Hyderabad,2019.0,Overseas,Martin Guptill,MJ Guptill,323,MJ Guptill,271,39,197,0.0,0.0,0.0,13,20.85,137.56,19.8,0.0,0.0,0.0,7.0,0.0
+Matthew Wade,Wicket Keeper,24000000,Gujarat Titans,2022.0,Overseas,Matthew Wade,MS Wade,341,MS Wade,179,25,178,0.0,0.0,0.0,13,13.77,100.56,14.04,0.0,0.0,0.0,7.0,1.0
+Mayank Agarwal,Batsman,16000000,Delhi Daredevils,2014.0,Indian,Mayank Agarwal,MA Agarwal,311,MA Agarwal,2335,319,1803,0.0,0.0,0.0,107,21.82,129.51,17.69,0.0,0.0,0.0,51.0,0.0
+Mayank Agarwal,Batsman,10000000,Kings XI Punjab,2018.0,Indian,Mayank Agarwal,MA Agarwal,311,MA Agarwal,2335,319,1803,0.0,0.0,0.0,107,21.82,129.51,17.69,0.0,0.0,0.0,51.0,0.0
+Mayank Markande,Bowler,2000000,Mumbai Indians,2018.0,Indian,Mayank Markande,M Markande,300,M Markande,27,3,30,17.0,365.0,522.0,20,1.35,90.0,10.0,8.58,30.71,21.47,5.0,0.0
+Mayank Markande,Bowler,6500000,Mumbai Indians,2022.0,Indian,Mayank Markande,M Markande,300,M Markande,27,3,30,17.0,365.0,522.0,20,1.35,90.0,10.0,8.58,30.71,21.47,5.0,0.0
+Michael Clarke,Batsman,30000000,Pune Warriors India,2013.0,Overseas,Michael Clarke,MJ Clarke,322,MJ Clarke,98,12,96,2.0,66.0,72.0,6,16.33,102.08,12.5,6.55,36.0,33.0,1.0,0.0
+Michael Hussey,Batsman,50000000,Mumbai Indians,2014.0,Overseas,Michael Hussey,MEK Hussey,319,MEK Hussey,1977,250,1648,0.0,0.0,0.0,58,34.09,119.96,15.17,0.0,0.0,0.0,26.0,0.0
+Michael Hussey,Batsman,15000000,Chennai Super Kings,2015.0,Overseas,Michael Hussey,MEK Hussey,319,MEK Hussey,1977,250,1648,0.0,0.0,0.0,58,34.09,119.96,15.17,0.0,0.0,0.0,26.0,0.0
+Mitchell McClenaghan,Bowler,3000000,Mumbai Indians,2015.0,Overseas,Mitchell McClenaghan,MJ McClenaghan,325,MJ McClenaghan,85,12,73,71.0,1346.0,1839.0,56,1.52,116.44,16.44,8.2,25.9,18.96,1.0,0.0
+Mitchell Santner,All-Rounder,5000000,Chennai Super Kings,2018.0,Overseas,Mitchell Santner,MJ Santner,326,MJ Santner,54,6,55,10.0,244.0,282.0,12,4.5,98.18,10.91,6.93,28.2,24.4,4.0,0.0
+Mitchell Santner,All-Rounder,19000000,Chennai Super Kings,2022.0,Overseas,Mitchell Santner,MJ Santner,326,MJ Santner,54,6,55,10.0,244.0,282.0,12,4.5,98.18,10.91,6.93,28.2,24.4,4.0,0.0
+Moeen Ali,All-Rounder,17000000,Royal Challengers Bangalore,2018.0,Overseas,Moeen Ali,MM Ali,331,MM Ali,910,129,652,24.0,564.0,631.0,44,20.68,139.57,19.79,6.71,26.29,23.5,15.0,0.0
+Moeen Ali,All-Rounder,70000000,Chennai Super Kings,2021.0,Overseas,Moeen Ali,MM Ali,331,MM Ali,910,129,652,24.0,564.0,631.0,44,20.68,139.57,19.79,6.71,26.29,23.5,15.0,0.0
+Mohammad Nabi,All-Rounder,3000000,Sunrisers Hyderabad,2017.0,Overseas,Mohammad Nabi,Mohammad Nabi,349,Mohammad Nabi,186,26,126,13.0,345.0,417.0,17,10.94,147.62,20.63,7.25,32.08,26.54,11.0,0.0
+Mohammad Nabi,All-Rounder,10000000,Sunrisers Hyderabad,2018.0,Overseas,Mohammad Nabi,Mohammad Nabi,349,Mohammad Nabi,186,26,126,13.0,345.0,417.0,17,10.94,147.62,20.63,7.25,32.08,26.54,11.0,0.0
+Mohammad Nabi,All-Rounder,10000000,Kolkata Knight Riders,2022.0,Overseas,Mohammad Nabi,Mohammad Nabi,349,Mohammad Nabi,186,26,126,13.0,345.0,417.0,17,10.94,147.62,20.63,7.25,32.08,26.54,11.0,0.0
+Mohammad Shami,Bowler,42500000,Delhi Daredevils,2014.0,Indian,Mohammad Shami,Mohammed Shami,350,Mohammed Shami,69,7,74,99.0,2118.0,2954.0,93,0.74,93.24,9.46,8.37,29.84,21.39,13.0,0.0
+Mohammad Shami,Bowler,30000000,Delhi Daredevils,2018.0,Indian,Mohammad Shami,Mohammed Shami,350,Mohammed Shami,69,7,74,99.0,2118.0,2954.0,93,0.74,93.24,9.46,8.37,29.84,21.39,13.0,0.0
+Mohammad Shami,Bowler,48000000,Kings XI Punjab,2019.0,Indian,Mohammad Shami,Mohammed Shami,350,Mohammed Shami,69,7,74,99.0,2118.0,2954.0,93,0.74,93.24,9.46,8.37,29.84,21.39,13.0,0.0
+Mohammad Shami,Bowler,62500000,Gujarat Titans,2022.0,Indian,Mohammad Shami,Mohammed Shami,350,Mohammed Shami,69,7,74,99.0,2118.0,2954.0,93,0.74,93.24,9.46,8.37,29.84,21.39,13.0,0.0
+Mohammed Siraj,Bowler,26000000,Sunrisers Hyderabad,2017.0,Indian,Mohammed Siraj,Mohammed Siraj,351,Mohammed Siraj,96,12,111,59.0,1402.0,1992.0,65,1.48,86.49,10.81,8.52,33.76,23.76,21.0,0.0
+Mohammed Siraj,Bowler,26000000,Royal Challengers Bangalore,2018.0,Indian,Mohammed Siraj,Mohammed Siraj,351,Mohammed Siraj,96,12,111,59.0,1402.0,1992.0,65,1.48,86.49,10.81,8.52,33.76,23.76,21.0,0.0
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2018.0,Indian,Mohsin Khan,Mohsin Khan,352,Mohsin Khan,23,3,19,14.0,206.0,202.0,9,2.56,121.05,15.79,5.88,14.43,14.71,1.0,0.0
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2020.0,Indian,Mohsin Khan,Mohsin Khan,352,Mohsin Khan,23,3,19,14.0,206.0,202.0,9,2.56,121.05,15.79,5.88,14.43,14.71,1.0,0.0
+Mohsin Khan,Bowler,2000000,Lucknow Super Giants,2022.0,Indian,Mohsin Khan,Mohsin Khan,352,Mohsin Khan,23,3,19,14.0,206.0,202.0,9,2.56,121.05,15.79,5.88,14.43,14.71,1.0,0.0
+Moises Henriques,All-Rounder,22500000,Royal Challengers Bangalore,2013.0,Overseas,Moises Henriques,MC Henriques,315,MC Henriques,1000,115,801,42.0,979.0,1302.0,62,16.13,124.84,14.36,7.98,31.0,23.31,29.0,0.0
+Moises Henriques,All-Rounder,10000000,Sunrisers Hyderabad,2014.0,Overseas,Moises Henriques,MC Henriques,315,MC Henriques,1000,115,801,42.0,979.0,1302.0,62,16.13,124.84,14.36,7.98,31.0,23.31,29.0,0.0
+Moises Henriques,All-Rounder,10000000,Kings XI Punjab,2019.0,Overseas,Moises Henriques,MC Henriques,315,MC Henriques,1000,115,801,42.0,979.0,1302.0,62,16.13,124.84,14.36,7.98,31.0,23.31,29.0,0.0
+Moises Henriques,All-Rounder,42000000,Punjab Kings,2021.0,Overseas,Moises Henriques,MC Henriques,315,MC Henriques,1000,115,801,42.0,979.0,1302.0,62,16.13,124.84,14.36,7.98,31.0,23.31,29.0,0.0
+Mujeeb Zadran,Bowler,40000000,Kings XI Punjab,2018.0,Overseas,Mujeeb Zadran,Mujeeb Ur Rahman,353,Mujeeb Ur Rahman,12,2,15,19.0,452.0,598.0,19,0.63,80.0,13.33,7.94,31.47,23.79,2.0,0.0
+Mujeeb Zadran,Bowler,15000000,Sunrisers Hyderabad,2021.0,Overseas,Mujeeb Zadran,Mujeeb Ur Rahman,353,Mujeeb Ur Rahman,12,2,15,19.0,452.0,598.0,19,0.63,80.0,13.33,7.94,31.47,23.79,2.0,0.0
+Mukesh Choudhary,Bowler,2000000,Chennai Super Kings,2022.0,Indian,Mukesh Choudhary,Mukesh Choudhary,354,Mukesh Choudhary,6,1,6,16.0,291.0,425.0,13,0.46,100.0,16.67,8.76,26.56,18.19,3.0,0.0
+Murali Kartik,Bowler,10000000,Kings XI Punjab,2014.0,Indian,Murali Kartik,M Kartik,297,M Kartik,113,8,109,31.0,1182.0,1418.0,55,2.05,103.67,7.34,7.2,45.74,38.13,18.0,0.0
+Murali Vijay,Batsman,50000000,Delhi Daredevils,2014.0,Indian,Murali Vijay,M Vijay,308,M Vijay,2619,338,2208,0.0,37.0,49.0,105,24.94,118.61,15.31,7.95,490000.0,370000.0,48.0,0.0
+Murali Vijay,Batsman,30000000,Kings XI Punjab,2015.0,Indian,Murali Vijay,M Vijay,308,M Vijay,2619,338,2208,0.0,37.0,49.0,105,24.94,118.61,15.31,7.95,490000.0,370000.0,48.0,0.0
+Murali Vijay,Batsman,20000000,Chennai Super Kings,2018.0,Indian,Murali Vijay,M Vijay,308,M Vijay,2619,338,2208,0.0,37.0,49.0,105,24.94,118.61,15.31,7.95,490000.0,370000.0,48.0,0.0
+Murugan Ashwin,Bowler,16000000,Mumbai Indians,2022.0,Indian,Murugan Ashwin,M Ashwin,294,M Ashwin,35,3,50,35.0,873.0,1129.0,42,0.83,70.0,6.0,7.76,32.26,24.94,7.0,0.0
+Mustafizur Rahman,Bowler,14000000,Sunrisers Hyderabad,2016.0,Overseas,Mustafizur Rahman,Mustafizur Rahman,355,Mustafizur Rahman,12,1,22,46.0,1086.0,1389.0,46,0.26,54.55,4.55,7.67,30.2,23.61,4.0,0.0
+Mustafizur Rahman,Bowler,22000000,Mumbai Indians,2018.0,Overseas,Mustafizur Rahman,Mustafizur Rahman,355,Mustafizur Rahman,12,1,22,46.0,1086.0,1389.0,46,0.26,54.55,4.55,7.67,30.2,23.61,4.0,0.0
+Mustafizur Rahman,Bowler,10000000,Rajasthan Royals,2021.0,Overseas,Mustafizur Rahman,Mustafizur Rahman,355,Mustafizur Rahman,12,1,22,46.0,1086.0,1389.0,46,0.26,54.55,4.55,7.67,30.2,23.61,4.0,0.0
+Mustafizur Rahman,Bowler,20000000,Delhi Capitals,2022.0,Overseas,Mustafizur Rahman,Mustafizur Rahman,355,Mustafizur Rahman,12,1,22,46.0,1086.0,1389.0,46,0.26,54.55,4.55,7.67,30.2,23.61,4.0,0.0
+Muttiah Muralitharan,Bowler,10000000,Royal Challengers Bangalore,2014.0,Overseas,Muttiah Muralitharan,M Muralitharan,302,M Muralitharan,20,1,30,64.0,1581.0,1765.0,66,0.3,66.67,3.33,6.7,27.58,24.7,14.0,0.0
+N Jagadeesan,Wicket Keeper,2000000,Chennai Super Kings,2018.0,Indian,N Jagadeesan,N Jagadeesan,356,N Jagadeesan,73,8,71,0.0,0.0,0.0,4,18.25,102.82,11.27,0.0,0.0,0.0,0.0,0.0
+N. Jagadeesan,Wicket Keeper,2000000,Chennai Super Kings,2022.0,Indian,N. Jagadeesan,N Jagadeesan,356,N Jagadeesan,73,8,71,0.0,0.0,0.0,4,18.25,102.82,11.27,0.0,0.0,0.0,0.0,0.0
+N. Tilak Varma,All-Rounder,17000000,Mumbai Indians,2022.0,Indian,N. Tilak Varma,Tilak Varma,561,Tilak Varma,397,45,313,0.0,12.0,13.0,14,28.36,126.84,14.38,6.5,130000.0,120000.0,10.0,0.0
+Nathan Coulter-Nile,Bowler,33750000,Mumbai Indians,2013.0,Overseas,Nathan Coulter-Nile,NM Coulter-Nile,366,NM Coulter-Nile,82,11,75,48.0,892.0,1125.0,38,2.16,109.33,14.67,7.57,23.44,18.58,10.0,0.0
+Nathan Coulter-Nile,Bowler,42500000,Delhi Daredevils,2014.0,Overseas,Nathan Coulter-Nile,NM Coulter-Nile,366,NM Coulter-Nile,82,11,75,48.0,892.0,1125.0,38,2.16,109.33,14.67,7.57,23.44,18.58,10.0,0.0
+Nathan Coulter-Nile,Bowler,35000000,Kolkata Knight Riders,2017.0,Overseas,Nathan Coulter-Nile,NM Coulter-Nile,366,NM Coulter-Nile,82,11,75,48.0,892.0,1125.0,38,2.16,109.33,14.67,7.57,23.44,18.58,10.0,0.0
+Nathan Coulter-Nile,Bowler,22000000,Royal Challengers Bangalore,2018.0,Overseas,Nathan Coulter-Nile,NM Coulter-Nile,366,NM Coulter-Nile,82,11,75,48.0,892.0,1125.0,38,2.16,109.33,14.67,7.57,23.44,18.58,10.0,0.0
+Nathan Coulter-Nile,Bowler,80000000,Mumbai Indians,2020.0,Overseas,Nathan Coulter-Nile,NM Coulter-Nile,366,NM Coulter-Nile,82,11,75,48.0,892.0,1125.0,38,2.16,109.33,14.67,7.57,23.44,18.58,10.0,0.0
+Nathan Coulter-Nile,Bowler,50000000,Mumbai Indians,2021.0,Overseas,Nathan Coulter-Nile,NM Coulter-Nile,366,NM Coulter-Nile,82,11,75,48.0,892.0,1125.0,38,2.16,109.33,14.67,7.57,23.44,18.58,10.0,0.0
+Nathan Coulter-Nile,Bowler,20000000,Rajasthan Royals,2022.0,Overseas,Nathan Coulter-Nile,NM Coulter-Nile,366,NM Coulter-Nile,82,11,75,48.0,892.0,1125.0,38,2.16,109.33,14.67,7.57,23.44,18.58,10.0,0.0
+Nathan Ellis,Bowler,7500000,Punjab Kings,2022.0,Overseas,Nathan Ellis,NT Ellis,368,NT Ellis,18,1,19,4.0,108.0,148.0,5,3.6,94.74,5.26,8.22,37.0,27.0,1.0,0.0
+Nathan McCullum,Bowler,7500000,Sunrisers Hyderabad,2013.0,Overseas,Nathan McCullum,NL McCullum,364,NL McCullum,26,1,23,0.0,30.0,35.0,2,13.0,113.04,4.35,7.0,350000.0,300000.0,1.0,0.0
+Nathu Singh,Bowler,32000000,Mumbai Indians,2016.0,Indian,Nathu Singh,A Singh,14,A Singh,2,0,10,28.0,486.0,639.0,23,0.09,20.0,0.0,7.89,22.82,17.36,1.0,0.0
+Nathu Singh,Bowler,5000000,Gujarat Lions,2017.0,Indian,Nathu Singh,A Singh,14,A Singh,2,0,10,28.0,486.0,639.0,23,0.09,20.0,0.0,7.89,22.82,17.36,1.0,0.0
+Nathu Singh,Bowler,2000000,Delhi Capitals,2019.0,Indian,Nathu Singh,A Singh,14,A Singh,2,0,10,28.0,486.0,639.0,23,0.09,20.0,0.0,7.89,22.82,17.36,1.0,0.0
+Navdeep Saini,Bowler,1000000,Delhi Daredevils,2017.0,Indian,Navdeep Saini,Navdeep Saini,370,Navdeep Saini,33,3,38,21.0,657.0,928.0,30,1.1,86.84,7.89,8.47,44.19,31.29,8.0,0.0
+Navdeep Saini,Bowler,30000000,Royal Challengers Bangalore,2018.0,Indian,Navdeep Saini,Navdeep Saini,370,Navdeep Saini,33,3,38,21.0,657.0,928.0,30,1.1,86.84,7.89,8.47,44.19,31.29,8.0,0.0
+Navdeep Saini,Bowler,26000000,Rajasthan Royals,2022.0,Indian,Navdeep Saini,Navdeep Saini,370,Navdeep Saini,33,3,38,21.0,657.0,928.0,30,1.1,86.84,7.89,8.47,44.19,31.29,8.0,0.0
+Nic Maddinson,Batsman,5000000,Royal Challengers Bangalore,2014.0,Overseas,Nic Maddinson,NJ Maddinson,361,NJ Maddinson,20,4,21,0.0,0.0,0.0,3,6.67,95.24,19.05,0.0,0.0,0.0,1.0,0.0
+Nicolas Pooran,Wicket Keeper,107500000,Sunrisers Hyderabad,2022.0,Overseas,Nicolas Pooran,N Pooran,357,N Pooran,912,117,630,0.0,0.0,0.0,43,21.21,144.76,18.57,0.0,0.0,0.0,19.0,1.0
+Nicolas Pooran,Wicket Keeper,3000000,Mumbai Indians,2017.0,Overseas,Nicolas Pooran,N Pooran,357,N Pooran,912,117,630,0.0,0.0,0.0,43,21.21,144.76,18.57,0.0,0.0,0.0,19.0,1.0
+Nicolas Pooran,Wicket Keeper,42000000,Kings XI Punjab,2019.0,Overseas,Nicolas Pooran,N Pooran,357,N Pooran,912,117,630,0.0,0.0,0.0,43,21.21,144.76,18.57,0.0,0.0,0.0,19.0,1.0
+Nitish Rana,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,Nitish Rana,N Rana,358,N Rana,2181,301,1677,7.0,131.0,178.0,87,25.07,130.05,17.95,8.15,25.43,18.71,21.0,0.0
+Nitish Rana,All-Rounder,34000000,Kolkata Knight Riders,2018.0,Indian,Nitish Rana,N Rana,358,N Rana,2181,301,1677,7.0,131.0,178.0,87,25.07,130.05,17.95,8.15,25.43,18.71,21.0,0.0
+Nitish Rana,All-Rounder,80000000,Kolkata Knight Riders,2022.0,Indian,Nitish Rana,N Rana,358,N Rana,2181,301,1677,7.0,131.0,178.0,87,25.07,130.05,17.95,8.15,25.43,18.71,21.0,0.0
+Noor Ahmad,Bowler,3000000,Gujarat Titans,2022.0,Overseas,Noor Ahmad,AN Ahmed,47,AN Ahmed,36,5,27,12.0,362.0,515.0,17,2.12,133.33,18.52,8.54,42.92,30.17,2.0,0.0
+Obed Mccoy,Bowler,7500000,Rajasthan Royals,2022.0,Overseas,Obed Mccoy,OC McCoy,372,OC McCoy,8,1,5,11.0,173.0,242.0,7,1.14,160.0,20.0,8.39,22.0,15.73,1.0,0.0
+Pankaj Singh,Bowler,11250000,Royal Challengers Bangalore,2013.0,Indian,Pankaj Singh,Pankaj Singh,402,Pankaj Singh,7,0,12,11.0,311.0,472.0,17,0.41,58.33,0.0,9.11,42.91,28.27,2.0,0.0
+Paras Dogra,Batsman,1000000,Gujarat Lions,2016.0,Indian,Paras Dogra,P Dogra,376,P Dogra,127,9,141,0.0,0.0,0.0,12,10.58,90.07,6.38,0.0,0.0,0.0,5.0,0.0
+Parthiv Patel,Wicket Keeper,14000000,Royal Challengers Bangalore,2014.0,Indian,Parthiv Patel,AR Patel,53,AR Patel,1135,121,919,101.0,2599.0,3140.0,122,9.3,123.5,13.17,7.25,31.09,25.73,51.0,0.0
+Parthiv Patel,Wicket Keeper,17000000,Royal Challengers Bangalore,2018.0,Indian,Parthiv Patel,AR Patel,53,AR Patel,1135,121,919,101.0,2599.0,3140.0,122,9.3,123.5,13.17,7.25,31.09,25.73,51.0,0.0
+Parveez Rasool,All-Rounder,9500000,Sunrisers Hyderabad,2014.0,Indian,Parveez Rasool,Parvez Rasool,403,Parvez Rasool,17,1,20,4.0,200.0,273.0,11,1.55,85.0,5.0,8.19,68.25,50.0,3.0,0.0
+Parvinder Awana,Bowler,6500000,Kings XI Punjab,2014.0,Indian,Parvinder Awana,P Awana,374,P Awana,5,0,14,39.0,774.0,1046.0,33,0.15,35.71,0.0,8.11,26.82,19.85,4.0,0.0
+Pat Cummins,Bowler,54000000,Mumbai Indians,2018.0,Overseas,Pat Cummins,PJ Cummins,389,PJ Cummins,379,50,260,45.0,995.0,1405.0,42,9.02,145.77,19.23,8.47,31.22,22.11,8.0,0.0
+Pat Cummins,All-Rounder,155000000,Kolkata Knight Riders,2020.0,Overseas,Pat Cummins,PJ Cummins,389,PJ Cummins,379,50,260,45.0,995.0,1405.0,42,9.02,145.77,19.23,8.47,31.22,22.11,8.0,0.0
+Pat Cummins,All-Rounder,72500000,Kolkata Knight Riders,2022.0,Overseas,Pat Cummins,PJ Cummins,389,PJ Cummins,379,50,260,45.0,995.0,1405.0,42,9.02,145.77,19.23,8.47,31.22,22.11,8.0,0.0
+Pat Cummins,Bowler,10000000,Kolkata Knight Riders,2014.0,Overseas,Pat Cummins,PJ Cummins,389,PJ Cummins,379,50,260,45.0,995.0,1405.0,42,9.02,145.77,19.23,8.47,31.22,22.11,8.0,0.0
+Pat Cummins,Bowler,45000000,Delhi Daredevils,2017.0,Overseas,Pat Cummins,PJ Cummins,389,PJ Cummins,379,50,260,45.0,995.0,1405.0,42,9.02,145.77,19.23,8.47,31.22,22.11,8.0,0.0
+Pawan Negi,Bowler,1000000,Chennai Super Kings,2014.0,Indian,Pawan Negi,P Negi,379,P Negi,365,43,301,34.0,733.0,954.0,46,7.93,121.26,14.29,7.81,28.06,21.56,16.0,0.0
+Pawan Negi,All-Rounder,85000000,Delhi Daredevils,2016.0,Indian,Pawan Negi,P Negi,379,P Negi,365,43,301,34.0,733.0,954.0,46,7.93,121.26,14.29,7.81,28.06,21.56,16.0,0.0
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2017.0,Indian,Pawan Negi,P Negi,379,P Negi,365,43,301,34.0,733.0,954.0,46,7.93,121.26,14.29,7.81,28.06,21.56,16.0,0.0
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2018.0,Indian,Pawan Negi,P Negi,379,P Negi,365,43,301,34.0,733.0,954.0,46,7.93,121.26,14.29,7.81,28.06,21.56,16.0,0.0
+Pawan Negi,All-Rounder,5000000,Kolkata Knight Riders,2021.0,Indian,Pawan Negi,P Negi,379,P Negi,365,43,301,34.0,733.0,954.0,46,7.93,121.26,14.29,7.81,28.06,21.56,16.0,0.0
+Peter Handscomb,Wicket Keeper,3000000,Rising Pune Supergiant,2016.0,Overseas,Peter Handscomb,PSP Handscomb,398,PSP Handscomb,6,0,12,0.0,0.0,0.0,1,6.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0
+Piyush Chawla,Bowler,42500000,Kolkata Knight Riders,2014.0,Indian,Piyush Chawla,PP Chawla,394,PP Chawla,584,72,543,157.0,3309.0,4368.0,165,3.54,107.55,13.26,7.92,27.82,21.08,35.0,0.0
+Piyush Chawla,Bowler,42000000,Kolkata Knight Riders,2018.0,Indian,Piyush Chawla,PP Chawla,394,PP Chawla,584,72,543,157.0,3309.0,4368.0,165,3.54,107.55,13.26,7.92,27.82,21.08,35.0,0.0
+Piyush Chawla,Bowler,67500000,Chennai Super Kings,2020.0,Indian,Piyush Chawla,PP Chawla,394,PP Chawla,584,72,543,157.0,3309.0,4368.0,165,3.54,107.55,13.26,7.92,27.82,21.08,35.0,0.0
+Piyush Chawla,Bowler,24000000,Mumbai Indians,2021.0,Indian,Piyush Chawla,PP Chawla,394,PP Chawla,584,72,543,157.0,3309.0,4368.0,165,3.54,107.55,13.26,7.92,27.82,21.08,35.0,0.0
+Prabhsimran Singh,Wicket Keeper,48000000,Kings XI Punjab,2019.0,Indian,Prabhsimran Singh,P Simran Singh,383,P Simran Singh,64,8,67,0.0,0.0,0.0,6,10.67,95.52,11.94,0.0,0.0,0.0,2.0,0.0
+Prabhsimran Singh,Wicket Keeper,5500000,Kings XI Punjab,2020.0,Indian,Prabhsimran Singh,P Simran Singh,383,P Simran Singh,64,8,67,0.0,0.0,0.0,6,10.67,95.52,11.94,0.0,0.0,0.0,2.0,0.0
+Prabhsimran Singh,Wicket Keeper,6000000,Punjab Kings,2022.0,Indian,Prabhsimran Singh,P Simran Singh,383,P Simran Singh,64,8,67,0.0,0.0,0.0,6,10.67,95.52,11.94,0.0,0.0,0.0,2.0,0.0
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Lions,2016.0,Indian,Pradeep Sangwan,PJ Sangwan,390,PJ Sangwan,26,1,47,38.0,905.0,1267.0,42,0.62,55.32,2.13,8.4,33.34,23.82,8.0,0.0
+Pradeep Sangwan,Bowler,15000000,Mumbai Indians,2018.0,Indian,Pradeep Sangwan,PJ Sangwan,390,PJ Sangwan,26,1,47,38.0,905.0,1267.0,42,0.62,55.32,2.13,8.4,33.34,23.82,8.0,0.0
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Titans,2022.0,Indian,Pradeep Sangwan,PJ Sangwan,390,PJ Sangwan,26,1,47,38.0,905.0,1267.0,42,0.62,55.32,2.13,8.4,33.34,23.82,8.0,0.0
+Pragyan Ojha,Bowler,32500000,Mumbai Indians,2014.0,Indian,Pragyan Ojha,PP Ojha,395,PP Ojha,16,0,45,89.0,1945.0,2399.0,90,0.18,35.56,0.0,7.4,26.96,21.85,14.0,0.0
+Pragyan Ojha,Bowler,5000000,Mumbai Indians,2015.0,Indian,Pragyan Ojha,PP Ojha,395,PP Ojha,16,0,45,89.0,1945.0,2399.0,90,0.18,35.56,0.0,7.4,26.96,21.85,14.0,0.0
+Prasanth Parameswaran,Bowler,3000000,Sunrisers Hyderabad,2014.0,Indian,Prasanth Parameswaran,P Parameswaran,380,P Parameswaran,1,0,3,9.0,159.0,226.0,8,0.12,33.33,0.0,8.53,25.11,17.67,0.0,0.0
+Prashant Chopra,Wicket Keeper,2000000,Rajasthan Royals,2018.0,Indian,Prashant Chopra,P Chopra,375,P Chopra,8,2,6,0.0,0.0,0.0,1,8.0,133.33,33.33,0.0,0.0,0.0,1.0,0.0
+Prasidh Krishna,Bowler,100000000,Rajasthan Royals,2022.0,Indian,Prasidh Krishna,M Prasidh Krishna,304,M Prasidh Krishna,9,0,24,50.0,1231.0,1741.0,51,0.18,37.5,0.0,8.49,34.82,24.62,9.0,0.0
+Praveen Dubey,All-Rounder,3500000,Royal Challengers Bangalore,2016.0,Indian,Praveen Dubey,P Dubey,377,P Dubey,7,0,13,0.0,48.0,72.0,3,2.33,53.85,0.0,9.0,720000.0,480000.0,1.0,0.0
+Praveen Dubey,All-Rounder,1000000,Royal Challengers Bangalore,2017.0,Indian,Praveen Dubey,P Dubey,377,P Dubey,7,0,13,0.0,48.0,72.0,3,2.33,53.85,0.0,9.0,720000.0,480000.0,1.0,0.0
+Praveen Kumar,Bowler,22000000,Sunrisers Hyderabad,2015.0,Indian,Praveen Kumar,P Kumar,378,P Kumar,340,39,323,90.0,2637.0,3342.0,119,2.86,105.26,12.07,7.6,37.13,29.3,13.0,0.0
+Praveen Kumar,Bowler,35000000,Gujarat Lions,2016.0,Indian,Praveen Kumar,P Kumar,378,P Kumar,340,39,323,90.0,2637.0,3342.0,119,2.86,105.26,12.07,7.6,37.13,29.3,13.0,0.0
+Pravin Dubey,All-Rounder,5000000,Delhi Capitals,2022.0,Indian,Pravin Dubey,P Dubey,377,P Dubey,7,0,13,0.0,48.0,72.0,3,2.33,53.85,0.0,9.0,720000.0,480000.0,1.0,0.0
+Pravin Tambe,Bowler,1000000,Rajasthan Royals,2014.0,Indian,Pravin Tambe,PV Tambe,399,PV Tambe,18,1,39,28.0,674.0,866.0,33,0.55,46.15,2.56,7.71,30.93,24.07,1.0,0.0
+Pravin Tambe,Bowler,2000000,Gujarat Lions,2016.0,Indian,Pravin Tambe,PV Tambe,399,PV Tambe,18,1,39,28.0,674.0,866.0,33,0.55,46.15,2.56,7.71,30.93,24.07,1.0,0.0
+Pravin Tambe,Bowler,1000000,Sunrisers Hyderabad,2017.0,Indian,Pravin Tambe,PV Tambe,399,PV Tambe,18,1,39,28.0,674.0,866.0,33,0.55,46.15,2.56,7.71,30.93,24.07,1.0,0.0
+Pravin Tambe,Bowler,2000000,Kolkata Knight Riders,2020.0,Indian,Pravin Tambe,PV Tambe,399,PV Tambe,18,1,39,28.0,674.0,866.0,33,0.55,46.15,2.56,7.71,30.93,24.07,1.0,0.0
+Prayas Ray Barman,All-Rounder,15000000,Royal Challengers Bangalore,2019.0,Indian,Prayas Ray Barman,P Ray Barman,381,P Ray Barman,19,2,25,0.0,24.0,56.0,1,19.0,76.0,8.0,14.0,560000.0,240000.0,0.0,0.0
+Prerak Mankad,All-Rounder,2000000,Punjab Kings,2022.0,Indian,Prerak Mankad,PN Mankad,393,PN Mankad,4,1,1,0.0,0.0,0.0,1,4.0,400.0,100.0,0.0,0.0,0.0,1.0,0.0
+Prithvi Raj Yarra,Bowler,2000000,Kolkata Knight Riders,2019.0,Indian,Prithvi Raj Yarra,Y Prithvi Raj,593,Y Prithvi Raj,0,0,1,1.0,33.0,57.0,2,0.0,0.0,0.0,10.36,56.99,33.0,0.0,0.0
+Priyam Garg,Batsman,19000000,Sunrisers Hyderabad,2020.0,Indian,Priyam Garg,PK Garg,391,PK Garg,251,24,224,0.0,0.0,0.0,17,14.76,112.05,10.71,0.0,0.0,0.0,11.0,0.0
+Priyam Garg,Batsman,2000000,Sunrisers Hyderabad,2022.0,Indian,Priyam Garg,PK Garg,391,PK Garg,251,24,224,0.0,0.0,0.0,17,14.76,112.05,10.71,0.0,0.0,0.0,11.0,0.0
+Quinton De Kock,Wicket Keeper,1500000,Sunrisers Hyderabad,2013.0,Overseas,Quinton De Kock,Q de Kock,404,Q de Kock,2767,383,2113,0.0,0.0,0.0,92,30.08,130.95,18.13,0.0,0.0,0.0,65.0,15.0
+Quinton De Kock,Wicket Keeper,35000000,Delhi Daredevils,2014.0,Overseas,Quinton De Kock,Q de Kock,404,Q de Kock,2767,383,2113,0.0,0.0,0.0,92,30.08,130.95,18.13,0.0,0.0,0.0,65.0,15.0
+Quinton De Kock,Wicket Keeper,28000000,Royal Challengers Bangalore,2018.0,Overseas,Quinton De Kock,Q de Kock,404,Q de Kock,2767,383,2113,0.0,0.0,0.0,92,30.08,130.95,18.13,0.0,0.0,0.0,65.0,15.0
+Quinton De Kock,Wicket Keeper,67500000,Lucknow Super Giants,2022.0,Overseas,Quinton De Kock,Q de Kock,404,Q de Kock,2767,383,2113,0.0,0.0,0.0,92,30.08,130.95,18.13,0.0,0.0,0.0,65.0,15.0
+R. Ashwin,All-Rounder,50000000,Rajasthan Royals,2022.0,Indian,R. Ashwin,R Ashwin,405,R Ashwin,647,72,567,157.0,4024.0,4596.0,181,3.57,114.11,12.7,6.85,29.27,25.63,36.0,0.0
+R. Sanjay Yadav,All-Rounder,1000000,Kolkata Knight Riders,2017.0,Indian,R. Sanjay Yadav,R Sanjay Yadav,415,R Sanjay Yadav,0,0,2,0.0,14.0,23.0,1,0.0,0.0,0.0,9.86,230000.0,140000.0,0.0,0.0
+Rahul Ajay Tripathi,All-Rounder,1000000,Rising Pune Supergiant,2017.0,Indian,Rahul Ajay Tripathi,RA Tripathi,424,RA Tripathi,1798,244,1312,0.0,6.0,12.0,74,24.3,137.04,18.6,12.0,120000.0,60000.0,29.0,0.0
+Rahul Sharma,Bowler,19000000,Delhi Daredevils,2014.0,Indian,Rahul Sharma,R Sharma,417,R Sharma,66,8,77,40.0,935.0,1100.0,44,1.5,85.71,10.39,7.06,27.5,23.37,10.0,0.0
+Rahul Sharma,Bowler,3000000,Chennai Super Kings,2015.0,Indian,Rahul Sharma,R Sharma,417,R Sharma,66,8,77,40.0,935.0,1100.0,44,1.5,85.71,10.39,7.06,27.5,23.37,10.0,0.0
+Rahul Shukla,Bowler,4000000,Delhi Daredevils,2014.0,Indian,Rahul Shukla,R Shukla,419,R Shukla,19,2,23,5.0,130.0,217.0,7,2.71,82.61,8.7,10.02,43.4,26.0,3.0,0.0
+Rahul Tewatia,All-Rounder,1000000,Rajasthan Royals,2014.0,Indian,Rahul Tewatia,R Tewatia,420,R Tewatia,738,92,588,32.0,852.0,1102.0,60,12.3,125.51,15.65,7.76,34.44,26.62,27.0,0.0
+Rahul Tewatia,All-Rounder,2500000,Kings XI Punjab,2017.0,Indian,Rahul Tewatia,R Tewatia,420,R Tewatia,738,92,588,32.0,852.0,1102.0,60,12.3,125.51,15.65,7.76,34.44,26.62,27.0,0.0
+Rahul Tewatia,All-Rounder,30000000,Delhi Daredevils,2018.0,Indian,Rahul Tewatia,R Tewatia,420,R Tewatia,738,92,588,32.0,852.0,1102.0,60,12.3,125.51,15.65,7.76,34.44,26.62,27.0,0.0
+Rahul Tewatia,All-Rounder,90000000,Gujarat Titans,2022.0,Indian,Rahul Tewatia,R Tewatia,420,R Tewatia,738,92,588,32.0,852.0,1102.0,60,12.3,125.51,15.65,7.76,34.44,26.62,27.0,0.0
+Rahul Tripathi,Batsman,34000000,Rajasthan Royals,2018.0,Indian,Rahul Tripathi,RA Tripathi,424,RA Tripathi,1798,244,1312,0.0,6.0,12.0,74,24.3,137.04,18.6,12.0,120000.0,60000.0,29.0,0.0
+Rahul Tripathi,Batsman,6000000,Kolkata Knight Riders,2020.0,Indian,Rahul Tripathi,RA Tripathi,424,RA Tripathi,1798,244,1312,0.0,6.0,12.0,74,24.3,137.04,18.6,12.0,120000.0,60000.0,29.0,0.0
+Rahul Tripathi,Batsman,85000000,Sunrisers Hyderabad,2022.0,Indian,Rahul Tripathi,RA Tripathi,424,RA Tripathi,1798,244,1312,0.0,6.0,12.0,74,24.3,137.04,18.6,12.0,120000.0,60000.0,29.0,0.0
+Raj Angad Bawa,All-Rounder,20000000,Punjab Kings,2022.0,Indian,Raj Angad Bawa,RA Bawa,422,RA Bawa,11,1,14,0.0,0.0,0.0,2,5.5,78.57,7.14,0.0,0.0,0.0,0.0,0.0
+Rajagopal Sathish,All-Rounder,2000000,Kolkata Knight Riders,2016.0,Indian,Rajagopal Sathish,R Sathish,416,R Sathish,270,28,236,3.0,144.0,233.0,27,10.0,114.41,11.86,9.71,77.66,48.0,8.0,0.0
+Rajat Bhatia,All-Rounder,17000000,Rajasthan Royals,2014.0,Indian,Rajat Bhatia,R Bhatia,406,R Bhatia,342,37,290,71.0,1661.0,2059.0,94,3.64,117.93,12.76,7.44,29.0,23.39,23.0,0.0
+Rajat Bhatia,All-Rounder,6000000,Rising Pune Supergiant,2016.0,Indian,Rajat Bhatia,R Bhatia,406,R Bhatia,342,37,290,71.0,1661.0,2059.0,94,3.64,117.93,12.76,7.44,29.0,23.39,23.0,0.0
+Rajat Patidar,Batsman,2000000,Royal Challengers Bangalore,2021.0,Indian,Rajat Patidar,RM Patidar,436,RM Patidar,404,51,297,0.0,0.0,0.0,11,36.73,136.03,17.17,0.0,0.0,0.0,5.0,0.0
+Ramandeep Singh,All-Rounder,2000000,Mumbai Indians,2022.0,Indian,Ramandeep Singh,Ramandeep Singh,453,Ramandeep Singh,45,4,42,6.0,41.0,55.0,5,9.0,107.14,9.52,8.05,9.17,6.83,0.0,0.0
+Ranganath Vinay Kumar,Bowler,28000000,Kolkata Knight Riders,2014.0,Indian,Ranganath Vinay Kumar,R Vinay Kumar,421,R Vinay Kumar,310,30,289,105.0,2186.0,3041.0,104,2.98,107.27,10.38,8.35,28.96,20.82,32.0,0.0
+Ranganath Vinay Kumar,Bowler,10000000,Kolkata Knight Riders,2018.0,Indian,Ranganath Vinay Kumar,R Vinay Kumar,421,R Vinay Kumar,310,30,289,105.0,2186.0,3041.0,104,2.98,107.27,10.38,8.35,28.96,20.82,32.0,0.0
+Rashid Khan Arman,Bowler,40000000,Sunrisers Hyderabad,2017.0,Overseas,Rashid Khan Arman,Rashid Khan,454,Rashid Khan,313,42,214,112.0,2232.0,2411.0,92,3.4,146.26,19.63,6.48,21.53,19.93,26.0,0.0
+Rashid Khan Arman,Bowler,90000000,Sunrisers Hyderabad,2018.0,Overseas,Rashid Khan Arman,Rashid Khan,454,Rashid Khan,313,42,214,112.0,2232.0,2411.0,92,3.4,146.26,19.63,6.48,21.53,19.93,26.0,0.0
+Rassie Van Der Dussen,Batsman,10000000,Rajasthan Royals,2022.0,Overseas,Rassie Van Der Dussen,HE van der Dussen,188,HE van der Dussen,22,2,25,0.0,0.0,0.0,3,7.33,88.0,8.0,0.0,0.0,0.0,0.0,0.0
+Ravi Bishnoi,Bowler,20000000,Kings XI Punjab,2020.0,Indian,Ravi Bishnoi,Ravi Bishnoi,456,Ravi Bishnoi,8,1,18,37.0,878.0,1083.0,37,0.22,44.44,5.56,7.4,29.27,23.73,7.0,0.0
+Ravi Bopara,All-Rounder,10000000,Sunrisers Hyderabad,2015.0,Indian,Ravi Bopara,RS Bopara,446,RS Bopara,531,55,468,11.0,213.0,301.0,24,22.12,113.46,11.75,8.48,27.36,19.36,4.0,0.0
+Ravi Rampaul,Bowler,21750000,Royal Challengers Bangalore,2013.0,Overseas,Ravi Rampaul,R Rampaul,414,R Rampaul,51,5,52,16.0,278.0,319.0,12,4.25,98.08,9.62,6.88,19.94,17.37,4.0,0.0
+Ravi Rampaul,Bowler,9000000,Royal Challengers Bangalore,2014.0,Overseas,Ravi Rampaul,R Rampaul,414,R Rampaul,51,5,52,16.0,278.0,319.0,12,4.25,98.08,9.62,6.88,19.94,17.37,4.0,0.0
+Ricky Bhui,Batsman,1000000,Sunrisers Hyderabad,2014.0,Overseas,Ricky Bhui,RK Bhui,434,RK Bhui,7,0,18,0.0,0.0,0.0,2,3.5,38.89,0.0,0.0,0.0,0.0,0.0,0.0
+Ricky Bhui,Batsman,2000000,Sunrisers Hyderabad,2018.0,Overseas,Ricky Bhui,RK Bhui,434,RK Bhui,7,0,18,0.0,0.0,0.0,2,3.5,38.89,0.0,0.0,0.0,0.0,0.0,0.0
+Ricky Ponting,Batsman,30000000,Mumbai Indians,2013.0,Overseas,Ricky Ponting,RT Ponting,449,RT Ponting,91,7,129,0.0,0.0,0.0,9,10.11,70.54,5.43,0.0,0.0,0.0,4.0,0.0
+Riley Meredith,Bowler,80000000,Punjab Kings,2021.0,Overseas,Riley Meredith,RP Meredith,438,RP Meredith,0,0,1,12.0,289.0,412.0,13,0.0,0.0,0.0,8.55,34.33,24.08,1.0,0.0
+Riley Meredith,Bowler,10000000,Mumbai Indians,2022.0,Overseas,Riley Meredith,RP Meredith,438,RP Meredith,0,0,1,12.0,289.0,412.0,13,0.0,0.0,0.0,8.55,34.33,24.08,1.0,0.0
+Rinku Singh,Batsman,1000000,Kings XI Punjab,2017.0,Indian,Rinku Singh,RK Singh,435,RK Singh,251,32,204,0.0,0.0,0.0,15,16.73,123.04,15.69,0.0,0.0,0.0,17.0,0.0
+Rinku Singh,Batsman,8000000,Kolkata Knight Riders,2018.0,Indian,Rinku Singh,RK Singh,435,RK Singh,251,32,204,0.0,0.0,0.0,15,16.73,123.04,15.69,0.0,0.0,0.0,17.0,0.0
+Rinku Singh,Batsman,5500000,Kolkata Knight Riders,2022.0,Indian,Rinku Singh,RK Singh,435,RK Singh,251,32,204,0.0,0.0,0.0,15,16.73,123.04,15.69,0.0,0.0,0.0,17.0,0.0
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2021.0,Indian,Ripal Patel,RV Patel,451,RV Patel,31,4,32,0.0,20.0,22.0,3,10.33,96.88,12.5,6.6,220000.0,200000.0,2.0,0.0
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2022.0,Indian,Ripal Patel,RV Patel,451,RV Patel,31,4,32,0.0,20.0,22.0,3,10.33,96.88,12.5,6.6,220000.0,200000.0,2.0,0.0
+Rishi Dhawan,All-Rounder,30000000,Kings XI Punjab,2014.0,Indian,Rishi Dhawan,R Dhawan,408,R Dhawan,190,23,176,24.0,632.0,819.0,31,6.13,107.95,13.07,7.78,34.12,26.33,10.0,0.0
+Rishi Dhawan,All-Rounder,5500000,Kolkata Knight Riders,2017.0,Indian,Rishi Dhawan,R Dhawan,408,R Dhawan,190,23,176,24.0,632.0,819.0,31,6.13,107.95,13.07,7.78,34.12,26.33,10.0,0.0
+Rishi Dhawan,All-Rounder,5500000,Punjab Kings,2022.0,Indian,Rishi Dhawan,R Dhawan,408,R Dhawan,190,23,176,24.0,632.0,819.0,31,6.13,107.95,13.07,7.78,34.12,26.33,10.0,0.0
+Riyan Parag,All-Rounder,2000000,Rajasthan Royals,2019.0,Indian,Riyan Parag,R Parag,412,R Parag,522,62,434,4.0,162.0,280.0,40,13.05,120.28,14.29,10.37,70.0,40.5,29.0,0.0
+Riyan Parag,All-Rounder,38000000,Rajasthan Royals,2022.0,Indian,Riyan Parag,R Parag,412,R Parag,522,62,434,4.0,162.0,280.0,40,13.05,120.28,14.29,10.37,70.0,40.5,29.0,0.0
+Robin Uthappa,Batsman,50000000,Kolkata Knight Riders,2014.0,Indian,Robin Uthappa,RV Uthappa,452,RV Uthappa,4954,663,3927,0.0,0.0,0.0,197,25.15,126.15,16.88,0.0,0.0,0.0,92.0,32.0
+Robin Uthappa,Batsman,64000000,Kolkata Knight Riders,2018.0,Indian,Robin Uthappa,RV Uthappa,452,RV Uthappa,4954,663,3927,0.0,0.0,0.0,197,25.15,126.15,16.88,0.0,0.0,0.0,92.0,32.0
+Robin Uthappa,Batsman,30000000,Rajasthan Royals,2020.0,Indian,Robin Uthappa,RV Uthappa,452,RV Uthappa,4954,663,3927,0.0,0.0,0.0,197,25.15,126.15,16.88,0.0,0.0,0.0,92.0,32.0
+Robin Uthappa,Batsman,20000000,Chennai Super Kings,2022.0,Indian,Robin Uthappa,RV Uthappa,452,RV Uthappa,4954,663,3927,0.0,0.0,0.0,197,25.15,126.15,16.88,0.0,0.0,0.0,92.0,32.0
+Romario Shepherd,All-Rounder,77500000,Sunrisers Hyderabad,2022.0,Overseas,Romario Shepherd,R Shepherd,418,R Shepherd,58,7,43,3.0,57.0,98.0,3,19.33,134.88,16.28,10.32,32.67,19.0,0.0,0.0
+Ronit More,Bowler,1000000,Chennai Super Kings,2014.0,Indian,Ronit More,RG More,429,RG More,2,0,2,1.0,37.0,63.0,2,1.0,100.0,0.0,10.22,62.99,37.0,1.0,0.0
+Ross Taylor,Batsman,20000000,Delhi Daredevils,2014.0,Overseas,Ross Taylor,LRPL Taylor,291,LRPL Taylor,1017,112,847,0.0,13.0,24.0,54,18.83,120.07,13.22,11.08,240000.0,130000.0,18.0,0.0
+Rovman Powell,All-Rounder,3000000,Kolkata Knight Riders,2017.0,Overseas,Rovman Powell,R Powell,413,R Powell,250,32,174,0.0,7.0,17.0,12,20.83,143.68,18.39,14.57,170000.0,70000.0,11.0,0.0
+Rovman Powell,Batsman,28000000,Delhi Capitals,2022.0,Overseas,Rovman Powell,R Powell,413,R Powell,250,32,174,0.0,7.0,17.0,12,20.83,143.68,18.39,14.57,170000.0,70000.0,11.0,0.0
+Ruturaj Gaikwad,Batsman,2000000,Chennai Super Kings,2019.0,Indian,Ruturaj Gaikwad,RD Gaikwad,426,RD Gaikwad,1207,156,945,0.0,0.0,0.0,36,33.53,127.72,16.51,0.0,0.0,0.0,14.0,0.0
+Ryan McLaren,Bowler,3750000,Kolkata Knight Riders,2013.0,Overseas,Ryan McLaren,R McLaren,410,R McLaren,159,15,178,12.0,372.0,558.0,18,8.83,89.33,8.43,9.0,46.5,31.0,5.0,0.0
+Ryan Ten Doeschate,All-Rounder,10000000,Kolkata Knight Riders,2014.0,Overseas,Ryan Ten Doeschate,RN ten Doeschate,437,RN ten Doeschate,326,41,238,2.0,83.0,94.0,23,14.17,136.97,17.23,6.8,47.0,41.5,7.0,0.0
+Sachin Baby,Batsman,1000000,Royal Challengers Bangalore,2016.0,Indian,Sachin Baby,Sachin Baby,522,Sachin Baby,144,16,123,2.0,10.0,8.0,13,11.08,117.07,13.01,4.8,4.0,5.0,5.0,0.0
+Sachin Baby,Batsman,2000000,Sunrisers Hyderabad,2018.0,Indian,Sachin Baby,Sachin Baby,522,Sachin Baby,144,16,123,2.0,10.0,8.0,13,11.08,117.07,13.01,4.8,4.0,5.0,5.0,0.0
+Sachin Baby,Batsman,2000000,Royal Challengers Bangalore,2021.0,Indian,Sachin Baby,Sachin Baby,522,Sachin Baby,144,16,123,2.0,10.0,8.0,13,11.08,117.07,13.01,4.8,4.0,5.0,5.0,0.0
+Sagar Trivedi,All-Rounder,1000000,Rajasthan Royals,2015.0,Indian,Sagar Trivedi,SK Trivedi,494,SK Trivedi,42,4,61,65.0,1557.0,1944.0,76,0.55,68.85,6.56,7.49,29.91,23.95,12.0,0.0
+Sam Billings,Wicket Keeper,3000000,Delhi Daredevils,2016.0,Overseas,Sam Billings,SW Billings,520,SW Billings,503,60,399,0.0,0.0,0.0,27,18.63,126.07,15.04,0.0,0.0,0.0,19.0,1.0
+Sam Billings,Wicket Keeper,10000000,Chennai Super Kings,2018.0,Overseas,Sam Billings,SW Billings,520,SW Billings,503,60,399,0.0,0.0,0.0,27,18.63,126.07,15.04,0.0,0.0,0.0,19.0,1.0
+Sam Billings,Wicket Keeper,20000000,Delhi Capitals,2021.0,Overseas,Sam Billings,SW Billings,520,SW Billings,503,60,399,0.0,0.0,0.0,27,18.63,126.07,15.04,0.0,0.0,0.0,19.0,1.0
+Sam Billings,Wicket Keeper,20000000,Kolkata Knight Riders,2022.0,Overseas,Sam Billings,SW Billings,520,SW Billings,503,60,399,0.0,0.0,0.0,27,18.63,126.07,15.04,0.0,0.0,0.0,19.0,1.0
+Sam Curran,All-Rounder,72000000,Kings XI Punjab,2019.0,Overseas,Sam Curran,SM Curran,497,SM Curran,337,48,230,32.0,681.0,1005.0,32,10.53,146.52,20.87,8.85,31.41,21.28,9.0,0.0
+Sam Curran,All-Rounder,55000000,Chennai Super Kings,2020.0,Overseas,Sam Curran,SM Curran,497,SM Curran,337,48,230,32.0,681.0,1005.0,32,10.53,146.52,20.87,8.85,31.41,21.28,9.0,0.0
+Samuel Badree,Bowler,3000000,Chennai Super Kings,2014.0,Overseas,Samuel Badree,S Badree,459,S Badree,13,0,25,11.0,263.0,329.0,12,1.08,52.0,0.0,7.51,29.91,23.91,2.0,0.0
+Samuel Badree,Bowler,5000000,Royal Challengers Bangalore,2016.0,Overseas,Samuel Badree,S Badree,459,S Badree,13,0,25,11.0,263.0,329.0,12,1.08,52.0,0.0,7.51,29.91,23.91,2.0,0.0
+Sandeep Lamichhane,Bowler,2000000,Delhi Daredevils,2018.0,Overseas,Sandeep Lamichhane,S Lamichhane,468,S Lamichhane,0,0,1,13.0,211.0,297.0,9,0.0,0.0,0.0,8.45,22.85,16.23,1.0,0.0
+Sandeep Sharma,Bowler,8500000,Kings XI Punjab,2014.0,Indian,Sandeep Sharma,Sandeep Sharma,524,Sandeep Sharma,52,4,66,114.0,2399.0,3046.0,104,0.5,78.79,6.06,7.62,26.72,21.04,10.0,0.0
+Sandeep Sharma,Bowler,30000000,Sunrisers Hyderabad,2018.0,Indian,Sandeep Sharma,Sandeep Sharma,524,Sandeep Sharma,52,4,66,114.0,2399.0,3046.0,104,0.5,78.79,6.06,7.62,26.72,21.04,10.0,0.0
+Sandeep Sharma,Bowler,5000000,Punjab Kings,2022.0,Indian,Sandeep Sharma,Sandeep Sharma,524,Sandeep Sharma,52,4,66,114.0,2399.0,3046.0,104,0.5,78.79,6.06,7.62,26.72,21.04,10.0,0.0
+Sanjay Yadav,All-Rounder,2000000,Sunrisers Hyderabad,2020.0,Indian,Sanjay Yadav,R Sanjay Yadav,415,R Sanjay Yadav,0,0,2,0.0,14.0,23.0,1,0.0,0.0,0.0,9.86,230000.0,140000.0,0.0,0.0
+Sanjay Yadav,All-Rounder,5000000,Mumbai Indians,2022.0,Indian,Sanjay Yadav,R Sanjay Yadav,415,R Sanjay Yadav,0,0,2,0.0,14.0,23.0,1,0.0,0.0,0.0,9.86,230000.0,140000.0,0.0,0.0
+Sanju Samson,Wicket Keeper,42000000,Delhi Daredevils,2016.0,Indian,Sanju Samson,SV Samson,519,SV Samson,3526,437,2663,0.0,0.0,0.0,133,26.51,132.41,16.41,0.0,0.0,0.0,73.0,12.0
+Sanju Samson,Wicket Keeper,80000000,Rajasthan Royals,2018.0,Indian,Sanju Samson,SV Samson,519,SV Samson,3526,437,2663,0.0,0.0,0.0,133,26.51,132.41,16.41,0.0,0.0,0.0,73.0,12.0
+Sarabjit Ladda,Bowler,1000000,Gujarat Lions,2016.0,Indian,Sarabjit Ladda,S Ladda,467,S Ladda,0,0,10,5.0,141.0,225.0,9,0.0,0.0,0.0,9.57,45.0,28.2,1.0,0.0
+Saurabh Dubey,Bowler,2000000,Sunrisers Hyderabad,2022.0,Indian,Saurabh Dubey,S Dube,463,S Dube,688,84,541,4.0,111.0,176.0,34,20.24,127.17,15.53,9.51,44.0,27.75,11.0,0.0
+Saurabh Tiwary,Batsman,7000000,Delhi Daredevils,2014.0,Indian,Saurabh Tiwary,SS Tiwary,516,SS Tiwary,1494,161,1291,0.0,0.0,0.0,73,20.47,115.72,12.47,0.0,0.0,0.0,25.0,0.0
+Saurabh Tiwary,Batsman,3000000,Mumbai Indians,2017.0,Indian,Saurabh Tiwary,SS Tiwary,516,SS Tiwary,1494,161,1291,0.0,0.0,0.0,73,20.47,115.72,12.47,0.0,0.0,0.0,25.0,0.0
+Saurabh Tiwary,Batsman,8000000,Mumbai Indians,2018.0,Indian,Saurabh Tiwary,SS Tiwary,516,SS Tiwary,1494,161,1291,0.0,0.0,0.0,73,20.47,115.72,12.47,0.0,0.0,0.0,25.0,0.0
+Saurabh Tiwary,Batsman,5000000,Mumbai Indians,2020.0,Indian,Saurabh Tiwary,SS Tiwary,516,SS Tiwary,1494,161,1291,0.0,0.0,0.0,73,20.47,115.72,12.47,0.0,0.0,0.0,25.0,0.0
+Sean Abbott,Bowler,10000000,Royal Challengers Bangalore,2015.0,Overseas,Sean Abbott,SA Abbott,478,SA Abbott,22,3,18,1.0,59.0,104.0,3,7.33,122.22,16.67,10.58,103.99,58.99,0.0,0.0
+Sean Abbott,Bowler,24000000,Sunrisers Hyderabad,2022.0,Overseas,Sean Abbott,SA Abbott,478,SA Abbott,22,3,18,1.0,59.0,104.0,3,7.33,122.22,16.67,10.58,103.99,58.99,0.0,0.0
+Shadab Jakati,Bowler,2000000,Royal Challengers Bangalore,2014.0,Indian,Shadab Jakati,SB Jakati,482,SB Jakati,28,3,30,47.0,1101.0,1474.0,57,0.49,93.33,10.0,8.03,31.36,23.43,19.0,0.0
+Shadab Jakati,All-Rounder,2000000,Gujarat Lions,2016.0,Indian,Shadab Jakati,SB Jakati,482,SB Jakati,28,3,30,47.0,1101.0,1474.0,57,0.49,93.33,10.0,8.03,31.36,23.43,19.0,0.0
+Shahbaz Ahamad,Wicket Keeper,2000000,Royal Challengers Bangalore,2020.0,Indian,Shahbaz Ahamad,Shahbaz Ahmed,525,Shahbaz Ahmed,279,29,253,13.0,341.0,478.0,26,10.73,110.28,11.46,8.41,36.77,26.23,12.0,0.0
+Shahbaz Ahamad,All-Rounder,24000000,Royal Challengers Bangalore,2022.0,Indian,Shahbaz Ahamad,Shahbaz Ahmed,525,Shahbaz Ahmed,279,29,253,13.0,341.0,478.0,26,10.73,110.28,11.46,8.41,36.77,26.23,12.0,0.0
+Shahrukh Khan,All-Rounder,52500000,Punjab Kings,2021.0,Indian,Shahrukh Khan,M Shahrukh Khan,306,M Shahrukh Khan,270,32,236,0.0,0.0,0.0,18,15.0,114.41,13.56,0.0,0.0,0.0,7.0,0.0
+Shahrukh Khan,All-Rounder,90000000,Punjab Kings,2022.0,Indian,Shahrukh Khan,M Shahrukh Khan,306,M Shahrukh Khan,270,32,236,0.0,0.0,0.0,18,15.0,114.41,13.56,0.0,0.0,0.0,7.0,0.0
+Shakib Al Hasan,All-Rounder,28000000,Kolkata Knight Riders,2014.0,Overseas,Shakib Al Hasan,Shakib Al Hasan,527,Shakib Al Hasan,795,94,665,63.0,1515.0,1864.0,71,11.2,119.55,14.14,7.38,29.59,24.05,13.0,0.0
+Shakib Al Hasan,All-Rounder,20000000,Sunrisers Hyderabad,2018.0,Overseas,Shakib Al Hasan,Shakib Al Hasan,527,Shakib Al Hasan,795,94,665,63.0,1515.0,1864.0,71,11.2,119.55,14.14,7.38,29.59,24.05,13.0,0.0
+Shakib Al Hasan,All-Rounder,32000000,Kolkata Knight Riders,2021.0,Overseas,Shakib Al Hasan,Shakib Al Hasan,527,Shakib Al Hasan,795,94,665,63.0,1515.0,1864.0,71,11.2,119.55,14.14,7.38,29.59,24.05,13.0,0.0
+Shane Watson,All-Rounder,95000000,Royal Challengers Bangalore,2016.0,Overseas,Shane Watson,SR Watson,511,SR Watson,3880,567,2892,92.0,2137.0,2742.0,145,26.76,134.16,19.61,7.7,29.8,23.23,38.0,0.0
+Shane Watson,All-Rounder,40000000,Chennai Super Kings,2018.0,Overseas,Shane Watson,SR Watson,511,SR Watson,3880,567,2892,92.0,2137.0,2742.0,145,26.76,134.16,19.61,7.7,29.8,23.23,38.0,0.0
+Shardul Thakur,Bowler,2000000,Kings XI Punjab,2014.0,Indian,Shardul Thakur,SN Thakur,503,SN Thakur,173,20,138,82.0,1650.0,2371.0,74,2.34,125.36,14.49,8.62,28.91,20.12,21.0,0.0
+Shardul Thakur,Bowler,26000000,Chennai Super Kings,2018.0,Indian,Shardul Thakur,SN Thakur,503,SN Thakur,173,20,138,82.0,1650.0,2371.0,74,2.34,125.36,14.49,8.62,28.91,20.12,21.0,0.0
+Shardul Thakur,Bowler,107500000,Delhi Capitals,2022.0,Indian,Shardul Thakur,SN Thakur,503,SN Thakur,173,20,138,82.0,1650.0,2371.0,74,2.34,125.36,14.49,8.62,28.91,20.12,21.0,0.0
+Shashank Singh,All-Rounder,1000000,Delhi Daredevils,2017.0,Indian,Shashank Singh,Shashank Singh,528,Shashank Singh,69,9,47,0.0,13.0,20.0,6,11.5,146.81,19.15,9.23,200000.0,130000.0,3.0,0.0
+Shashank Singh,All-Rounder,3000000,Rajasthan Royals,2019.0,Indian,Shashank Singh,Shashank Singh,528,Shashank Singh,69,9,47,0.0,13.0,20.0,6,11.5,146.81,19.15,9.23,200000.0,130000.0,3.0,0.0
+Shashank Singh,All-Rounder,2000000,Sunrisers Hyderabad,2022.0,Indian,Shashank Singh,Shashank Singh,528,Shashank Singh,69,9,47,0.0,13.0,20.0,6,11.5,146.81,19.15,9.23,200000.0,130000.0,3.0,0.0
+Shaun Marsh,Batsman,22000000,Kings XI Punjab,2014.0,Overseas,Shaun Marsh,SE Marsh,490,SE Marsh,2489,347,1913,0.0,0.0,0.0,69,36.07,130.11,18.14,0.0,0.0,0.0,26.0,0.0
+Sheldon Cottrell,Bowler,85000000,Kings XI Punjab,2020.0,Overseas,Sheldon Cottrell,SS Cottrell,512,SS Cottrell,0,0,2,6.0,131.0,177.0,6,0.0,0.0,0.0,8.11,29.5,21.83,0.0,0.0
+Sheldon Jackson,Batsman,1500000,Kolkata Knight Riders,2015.0,Indian,Sheldon Jackson,SP Jackson,507,SP Jackson,61,6,57,0.0,0.0,0.0,8,7.62,107.02,10.53,0.0,0.0,0.0,7.0,2.0
+Sheldon Jackson,Wicket Keeper,2000000,Kolkata Knight Riders,2021.0,Indian,Sheldon Jackson,SP Jackson,507,SP Jackson,61,6,57,0.0,0.0,0.0,8,7.62,107.02,10.53,0.0,0.0,0.0,7.0,2.0
+Sheldon Jackson,Wicket Keeper,6000000,Kolkata Knight Riders,2022.0,Indian,Sheldon Jackson,SP Jackson,507,SP Jackson,61,6,57,0.0,0.0,0.0,8,7.62,107.02,10.53,0.0,0.0,0.0,7.0,2.0
+Sherfane Rutherford,All-Rounder,20000000,Delhi Capitals,2019.0,Overseas,Sherfane Rutherford,SE Rutherford,491,SE Rutherford,106,11,107,1.0,46.0,60.0,9,11.78,99.07,10.28,7.83,59.99,46.0,5.0,0.0
+Sherfane Rutherford,All-Rounder,10000000,Royal Challengers Bangalore,2022.0,Overseas,Sherfane Rutherford,SE Rutherford,491,SE Rutherford,106,11,107,1.0,46.0,60.0,9,11.78,99.07,10.28,7.83,59.99,46.0,5.0,0.0
+Shikhar Dhawan,Batsman,52000000,Sunrisers Hyderabad,2018.0,Indian,Shikhar Dhawan,R Dhawan,408,R Dhawan,190,23,176,24.0,632.0,819.0,31,6.13,107.95,13.07,7.78,34.12,26.33,10.0,0.0
+Shikhar Dhawan,Batsman,82500000,Punjab Kings,2022.0,Indian,Shikhar Dhawan,R Dhawan,408,R Dhawan,190,23,176,24.0,632.0,819.0,31,6.13,107.95,13.07,7.78,34.12,26.33,10.0,0.0
+Shimron Hetmyer,Batsman,42000000,Royal Challengers Bangalore,2019.0,Overseas,Shimron Hetmyer,SO Hetmyer,504,SO Hetmyer,831,107,577,0.0,0.0,0.0,43,19.33,144.02,18.54,0.0,0.0,0.0,17.0,0.0
+Shimron Hetmyer,Batsman,77500000,Delhi Capitals,2020.0,Overseas,Shimron Hetmyer,SO Hetmyer,504,SO Hetmyer,831,107,577,0.0,0.0,0.0,43,19.33,144.02,18.54,0.0,0.0,0.0,17.0,0.0
+Shimron Hetmyer,Batsman,85000000,Rajasthan Royals,2022.0,Overseas,Shimron Hetmyer,SO Hetmyer,504,SO Hetmyer,831,107,577,0.0,0.0,0.0,43,19.33,144.02,18.54,0.0,0.0,0.0,17.0,0.0
+Shivam Dube,All-Rounder,50000000,Royal Challengers Bangalore,2019.0,Indian,Shivam Dube,S Dube,463,S Dube,688,84,541,4.0,111.0,176.0,34,20.24,127.17,15.53,9.51,44.0,27.75,11.0,0.0
+Shivam Dube,All-Rounder,44000000,Rajasthan Royals,2021.0,Indian,Shivam Dube,S Dube,463,S Dube,688,84,541,4.0,111.0,176.0,34,20.24,127.17,15.53,9.51,44.0,27.75,11.0,0.0
+Shivam Dube,All-Rounder,40000000,Chennai Super Kings,2022.0,Indian,Shivam Dube,S Dube,463,S Dube,688,84,541,4.0,111.0,176.0,34,20.24,127.17,15.53,9.51,44.0,27.75,11.0,0.0
+Shivam Mavi,All-Rounder,30000000,Kolkata Knight Riders,2018.0,Indian,Shivam Mavi,Shivam Mavi,529,Shivam Mavi,51,6,58,30.0,687.0,958.0,32,1.59,87.93,10.34,8.37,31.93,22.9,16.0,0.0
+Shivam Mavi,All-Rounder,72500000,Kolkata Knight Riders,2022.0,Indian,Shivam Mavi,Shivam Mavi,529,Shivam Mavi,51,6,58,30.0,687.0,958.0,32,1.59,87.93,10.34,8.37,31.93,22.9,16.0,0.0
+Shivam Sharma,Bowler,1000000,Kings XI Punjab,2014.0,Indian,Shivam Sharma,Shivam Sharma,530,Shivam Sharma,5,1,3,4.0,114.0,165.0,5,1.0,166.67,33.33,8.68,41.25,28.5,1.0,0.0
+Shivil Kaushik,Bowler,1000000,Gujarat Lions,2016.0,Indian,Shivil Kaushik,S Kaushik,466,S Kaushik,0,0,1,6.0,210.0,304.0,10,0.0,0.0,0.0,8.69,50.67,35.0,0.0,0.0
+Shreevats Goswami,Wicket Keeper,10000000,Sunrisers Hyderabad,2018.0,Indian,Shreevats Goswami,SP Goswami,506,SP Goswami,293,35,307,0.0,0.0,0.0,21,13.95,95.44,11.4,0.0,0.0,0.0,18.0,7.0
+Shreyas Gopal,Bowler,1000000,Mumbai Indians,2014.0,Indian,Shreyas Gopal,S Gopal,464,S Gopal,180,21,173,49.0,958.0,1291.0,48,3.75,104.05,12.14,8.09,26.35,19.55,5.0,0.0
+Shreyas Gopal,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,Shreyas Gopal,S Gopal,464,S Gopal,180,21,173,49.0,958.0,1291.0,48,3.75,104.05,12.14,8.09,26.35,19.55,5.0,0.0
+Shreyas Gopal,Bowler,7500000,Sunrisers Hyderabad,2022.0,Indian,Shreyas Gopal,S Gopal,464,S Gopal,180,21,173,49.0,958.0,1291.0,48,3.75,104.05,12.14,8.09,26.35,19.55,5.0,0.0
+Shreyas Iyer,Batsman,26000000,Delhi Daredevils,2015.0,Indian,Shreyas Iyer,SS Iyer,513,SS Iyer,2780,337,2295,0.0,6.0,7.0,100,27.8,121.13,14.68,7.0,70000.0,60000.0,39.0,0.0
+Shreyas Iyer,Batsman,122500000,Kolkata Knight Riders,2022.0,Indian,Shreyas Iyer,SS Iyer,513,SS Iyer,2780,337,2295,0.0,6.0,7.0,100,27.8,121.13,14.68,7.0,70000.0,60000.0,39.0,0.0
+Shubman Gill,Batsman,18000000,Kolkata Knight Riders,2018.0,Indian,Shubman Gill,Shubman Gill,534,Shubman Gill,1900,235,1555,0.0,0.0,0.0,70,27.14,122.19,15.11,0.0,0.0,0.0,30.0,0.0
+Siddarth Kaul,Bowler,4500000,Delhi Daredevils,2014.0,Indian,Siddarth Kaul,S Kaul,465,S Kaul,20,1,36,58.0,1238.0,1772.0,55,0.36,55.56,2.78,8.59,30.55,21.34,8.0,0.0
+Siddarth Kaul,Bowler,1000000,Sunrisers Hyderabad,2015.0,Indian,Siddarth Kaul,S Kaul,465,S Kaul,20,1,36,58.0,1238.0,1772.0,55,0.36,55.56,2.78,8.59,30.55,21.34,8.0,0.0
+Siddarth Kaul,Bowler,38000000,Sunrisers Hyderabad,2018.0,Indian,Siddarth Kaul,S Kaul,465,S Kaul,20,1,36,58.0,1238.0,1772.0,55,0.36,55.56,2.78,8.59,30.55,21.34,8.0,0.0
+Siddharth Kaul,Bowler,7500000,Royal Challengers Bangalore,2022.0,Indian,Siddharth Kaul,S Kaul,465,S Kaul,20,1,36,58.0,1238.0,1772.0,55,0.36,55.56,2.78,8.59,30.55,21.34,8.0,0.0
+Simarjeet Singh,Bowler,2000000,Chennai Super Kings,2022.0,Indian,Simarjeet Singh,Simarjeet Singh,535,Simarjeet Singh,7,0,8,4.0,113.0,143.0,6,1.17,87.5,0.0,7.59,35.75,28.25,1.0,0.0
+Steven Smith,All-Rounder,40000000,Rajasthan Royals,2014.0,Overseas,Steven Smith,SPD Smith,509,SPD Smith,2495,286,1999,0.0,2.0,5.0,93,26.83,124.81,14.31,15.0,50000.0,20000.0,54.0,0.0
+Steven Smith,Batsman,22000000,Delhi Capitals,2021.0,Overseas,Steven Smith,SPD Smith,509,SPD Smith,2495,286,1999,0.0,2.0,5.0,93,26.83,124.81,14.31,15.0,50000.0,20000.0,54.0,0.0
+Stuart Binny,All-Rounder,20000000,Royal Challengers Bangalore,2016.0,Indian,Stuart Binny,STR Binny,518,STR Binny,880,101,700,22.0,611.0,763.0,86,10.23,125.71,14.43,7.49,34.68,27.77,19.0,0.0
+Stuart Binny,All-Rounder,5000000,Rajasthan Royals,2018.0,Indian,Stuart Binny,STR Binny,518,STR Binny,880,101,700,22.0,611.0,763.0,86,10.23,125.71,14.43,7.49,34.68,27.77,19.0,0.0
+Subramaniam Badrinath,Batsman,3000000,Royal Challengers Bangalore,2015.0,Indian,Subramaniam Badrinath,S Badrinath,460,S Badrinath,1441,182,1245,0.0,0.0,0.0,65,22.17,115.74,14.62,0.0,0.0,0.0,16.0,0.0
+Sudeep Tyagi,Bowler,7500000,Sunrisers Hyderabad,2013.0,Indian,Sudeep Tyagi,S Tyagi,476,S Tyagi,3,0,4,6.0,220.0,304.0,14,0.21,75.0,0.0,8.29,50.67,36.67,3.0,0.0
+Sumit Narwal,All-Rounder,1000000,Kolkata Knight Riders,2015.0,Indian,Sumit Narwal,S Narwal,470,S Narwal,37,6,29,5.0,113.0,203.0,7,5.29,127.59,20.69,10.78,40.6,22.6,1.0,0.0
+Suryakumar Yadav,Batsman,7000000,Kolkata Knight Riders,2014.0,Indian,Suryakumar Yadav,SA Yadav,480,SA Yadav,2644,368,1973,0.0,6.0,8.0,109,24.26,134.01,18.65,8.0,80000.0,60000.0,58.0,0.0
+Suryakumar Yadav,Batsman,32000000,Mumbai Indians,2018.0,Indian,Suryakumar Yadav,SA Yadav,480,SA Yadav,2644,368,1973,0.0,6.0,8.0,109,24.26,134.01,18.65,8.0,80000.0,60000.0,58.0,0.0
+Suyash Prabhudesai,All-Rounder,2000000,Royal Challengers Bangalore,2021.0,Indian,Suyash Prabhudesai,SS Prabhudessai,514,SS Prabhudessai,67,9,62,0.0,0.0,0.0,5,13.4,108.06,14.52,0.0,0.0,0.0,5.0,0.0
+Suyash Prabhudessai,All-Rounder,3000000,Royal Challengers Bangalore,2022.0,Indian,Suyash Prabhudessai,SS Prabhudessai,514,SS Prabhudessai,67,9,62,0.0,0.0,0.0,5,13.4,108.06,14.52,0.0,0.0,0.0,5.0,0.0
+Swapnil Singh,All-Rounder,1000000,Kings XI Punjab,2016.0,Indian,Swapnil Singh,Swapnil Singh,539,Swapnil Singh,12,0,20,1.0,61.0,90.0,5,2.4,60.0,0.0,8.85,89.99,60.99,0.0,0.0
+T Natarajan,Bowler,30000000,Kings XI Punjab,2017.0,Indian,T Natarajan,T Natarajan,543,T Natarajan,3,0,5,38.0,793.0,1116.0,35,0.09,60.0,0.0,8.44,29.37,20.87,3.0,0.0
+T Natarajan,Bowler,4000000,Sunrisers Hyderabad,2018.0,Indian,T Natarajan,T Natarajan,543,T Natarajan,3,0,5,38.0,793.0,1116.0,35,0.09,60.0,0.0,8.44,29.37,20.87,3.0,0.0
+T. Natarajan,Bowler,40000000,Sunrisers Hyderabad,2022.0,Indian,T. Natarajan,T Natarajan,543,T Natarajan,3,0,5,38.0,793.0,1116.0,35,0.09,60.0,0.0,8.44,29.37,20.87,3.0,0.0
+Tim David,All-Rounder,82500000,Mumbai Indians,2022.0,Overseas,Tim David,TH David,551,TH David,187,28,94,0.0,0.0,0.0,9,20.78,198.94,29.79,0.0,0.0,0.0,6.0,0.0
+Tim Seifert,Wicket Keeper,5000000,Delhi Capitals,2022.0,Overseas,Tim Seifert,TL Seifert,553,TL Seifert,26,4,26,0.0,0.0,0.0,3,8.67,100.0,15.38,0.0,0.0,0.0,1.0,0.0
+Tim Southee,Bowler,12000000,Rajasthan Royals,2014.0,Overseas,Tim Southee,TG Southee,550,TG Southee,120,12,108,45.0,1226.0,1695.0,52,2.31,111.11,11.11,8.3,37.67,27.24,21.0,0.0
+Tim Southee,Bowler,25000000,Mumbai Indians,2016.0,Overseas,Tim Southee,TG Southee,550,TG Southee,120,12,108,45.0,1226.0,1695.0,52,2.31,111.11,11.11,8.3,37.67,27.24,21.0,0.0
+Tim Southee,Bowler,10000000,Royal Challengers Bangalore,2018.0,Overseas,Tim Southee,TG Southee,550,TG Southee,120,12,108,45.0,1226.0,1695.0,52,2.31,111.11,11.11,8.3,37.67,27.24,21.0,0.0
+Tim Southee,Bowler,15000000,Kolkata Knight Riders,2022.0,Overseas,Tim Southee,TG Southee,550,TG Southee,120,12,108,45.0,1226.0,1695.0,52,2.31,111.11,11.11,8.3,37.67,27.24,21.0,0.0
+Tom Banton,Batsman,10000000,Kolkata Knight Riders,2020.0,Overseas,Tom Banton,T Banton,540,T Banton,18,2,22,0.0,0.0,0.0,2,9.0,81.82,9.09,0.0,0.0,0.0,0.0,0.0
+Travis Head,Batsman,3000000,Delhi Daredevils,2015.0,Overseas,Travis Head,TM Head,556,TM Head,205,20,151,2.0,48.0,81.0,10,20.5,135.76,13.25,10.12,40.5,24.0,3.0,0.0
+Travis Head,Batsman,5000000,Royal Challengers Bangalore,2016.0,Overseas,Travis Head,TM Head,556,TM Head,205,20,151,2.0,48.0,81.0,10,20.5,135.76,13.25,10.12,40.5,24.0,3.0,0.0
+Trent Boult,Bowler,38000000,Sunrisers Hyderabad,2015.0,Overseas,Trent Boult,TA Boult,548,TA Boult,53,4,49,92.0,1860.0,2522.0,78,0.68,108.16,8.16,8.14,27.41,20.22,24.0,0.0
+Trent Boult,Bowler,50000000,Kolkata Knight Riders,2017.0,Overseas,Trent Boult,TA Boult,548,TA Boult,53,4,49,92.0,1860.0,2522.0,78,0.68,108.16,8.16,8.14,27.41,20.22,24.0,0.0
+Trent Boult,Bowler,22000000,Delhi Daredevils,2018.0,Overseas,Trent Boult,TA Boult,548,TA Boult,53,4,49,92.0,1860.0,2522.0,78,0.68,108.16,8.16,8.14,27.41,20.22,24.0,0.0
+Trent Boult,Bowler,80000000,Rajasthan Royals,2022.0,Overseas,Trent Boult,TA Boult,548,TA Boult,53,4,49,92.0,1860.0,2522.0,78,0.68,108.16,8.16,8.14,27.41,20.22,24.0,0.0
+Tushar Deshpande,Bowler,2000000,Delhi Capitals,2020.0,Indian,Tushar Deshpande,TU Deshpande,560,TU Deshpande,21,3,12,4.0,153.0,260.0,7,3.0,175.0,25.0,10.2,65.0,38.25,2.0,0.0
+Tushar Deshpande,Bowler,2000000,Chennai Super Kings,2022.0,Indian,Tushar Deshpande,TU Deshpande,560,TU Deshpande,21,3,12,4.0,153.0,260.0,7,3.0,175.0,25.0,10.2,65.0,38.25,2.0,0.0
+Tymal Mills,Bowler,120000000,Royal Challengers Bangalore,2017.0,Overseas,Tymal Mills,TS Mills,559,TS Mills,8,1,14,11.0,218.0,349.0,10,0.8,57.14,7.14,9.61,31.73,19.82,1.0,0.0
+Tymal Mills,Bowler,15000000,Mumbai Indians,2022.0,Overseas,Tymal Mills,TS Mills,559,TS Mills,8,1,14,11.0,218.0,349.0,10,0.8,57.14,7.14,9.61,31.73,19.82,1.0,0.0
+Unmukt Chand,Batsman,6500000,Rajasthan Royals,2014.0,Indian,Unmukt Chand,UBT Chand,564,UBT Chand,300,41,314,0.0,0.0,0.0,20,15.0,95.54,13.06,0.0,0.0,0.0,9.0,0.0
+Vaibhav Arora,Bowler,2000000,Kolkata Knight Riders,2021.0,Indian,Vaibhav Arora,VG Arora,573,VG Arora,5,0,14,3.0,110.0,165.0,5,1.0,35.71,0.0,9.0,55.0,36.67,1.0,0.0
+Vaibhav Arora,Bowler,20000000,Punjab Kings,2022.0,Indian,Vaibhav Arora,VG Arora,573,VG Arora,5,0,14,3.0,110.0,165.0,5,1.0,35.71,0.0,9.0,55.0,36.67,1.0,0.0
+Varun Aaron,Bowler,20000000,Royal Challengers Bangalore,2014.0,Indian,Varun Aaron,VR Aaron,575,VR Aaron,50,4,73,44.0,1065.0,1527.0,50,1.0,68.49,5.48,8.6,34.7,24.2,3.0,0.0
+Varun Aaron,Bowler,28000000,Kings XI Punjab,2017.0,Indian,Varun Aaron,VR Aaron,575,VR Aaron,50,4,73,44.0,1065.0,1527.0,50,1.0,68.49,5.48,8.6,34.7,24.2,3.0,0.0
+Varun Aaron,Bowler,24000000,Rajasthan Royals,2019.0,Indian,Varun Aaron,VR Aaron,575,VR Aaron,50,4,73,44.0,1065.0,1527.0,50,1.0,68.49,5.48,8.6,34.7,24.2,3.0,0.0
+Varun Aaron,Bowler,5000000,Gujarat Titans,2022.0,Indian,Varun Aaron,VR Aaron,575,VR Aaron,50,4,73,44.0,1065.0,1527.0,50,1.0,68.49,5.48,8.6,34.7,24.2,3.0,0.0
+Veer Pratap Singh,Bowler,4000000,Kolkata Knight Riders,2014.0,Indian,Veer Pratap Singh,V Pratap Singh,570,V Pratap Singh,0,0,1,10.0,211.0,300.0,9,0.0,0.0,0.0,8.53,30.0,21.1,0.0,0.0
+Venugopal Rao,Batsman,5500000,Sunrisers Hyderabad,2014.0,Indian,Venugopal Rao,Y Venugopal Rao,594,Y Venugopal Rao,985,114,865,6.0,222.0,338.0,57,17.28,113.87,13.18,9.14,56.33,37.0,13.0,0.0
+Vijay Shankar,All-Rounder,1000000,Chennai Super Kings,2014.0,Indian,Vijay Shankar,V Shankar,572,V Shankar,731,74,616,9.0,258.0,344.0,47,15.55,118.67,12.01,8.0,38.22,28.67,27.0,0.0
+Vijay Shankar,All-Rounder,3500000,Sunrisers Hyderabad,2016.0,Indian,Vijay Shankar,V Shankar,572,V Shankar,731,74,616,9.0,258.0,344.0,47,15.55,118.67,12.01,8.0,38.22,28.67,27.0,0.0
+Vijay Shankar,All-Rounder,32000000,Delhi Daredevils,2018.0,Indian,Vijay Shankar,V Shankar,572,V Shankar,731,74,616,9.0,258.0,344.0,47,15.55,118.67,12.01,8.0,38.22,28.67,27.0,0.0
+Vijay Shankar,All-Rounder,14000000,Gujarat Titans,2022.0,Indian,Vijay Shankar,V Shankar,572,V Shankar,731,74,616,9.0,258.0,344.0,47,15.55,118.67,12.01,8.0,38.22,28.67,27.0,0.0
+Vijay Zol,Batsman,3000000,Royal Challengers Bangalore,2014.0,Indian,Vijay Zol,VH Zol,574,VH Zol,29,4,26,0.0,0.0,0.0,2,14.5,111.54,15.38,0.0,0.0,0.0,0.0,0.0
+Vikas Tokas,Bowler,1000000,Royal Challengers Bangalore,2016.0,Indian,Vikas Tokas,S Kaushik,466,S Kaushik,0,0,1,6.0,210.0,304.0,10,0.0,0.0,0.0,8.69,50.67,35.0,0.0,0.0
+Virat Singh,Batsman,19000000,Sunrisers Hyderabad,2020.0,Indian,Virat Singh,Virat Singh,582,Virat Singh,15,1,26,0.0,0.0,0.0,2,7.5,57.69,3.85,0.0,0.0,0.0,2.0,0.0
+Virender Sehwag,Batsman,32000000,Kings XI Punjab,2014.0,Indian,Virender Sehwag,V Sehwag,571,V Sehwag,2728,440,1833,6.0,138.0,236.0,104,26.23,148.83,24.0,10.26,39.33,23.0,34.0,0.0
+Vishnu Vinod,Wicket Keeper,2000000,Delhi Capitals,2021.0,Indian,Vishnu Vinod,Vishnu Vinod,583,Vishnu Vinod,19,2,26,0.0,0.0,0.0,3,6.33,73.08,7.69,0.0,0.0,0.0,0.0,2.0
+Vishnu Vinod,Wicket Keeper,5000000,Sunrisers Hyderabad,2022.0,Indian,Vishnu Vinod,Vishnu Vinod,583,Vishnu Vinod,19,2,26,0.0,0.0,0.0,3,6.33,73.08,7.69,0.0,0.0,0.0,0.0,2.0
+Washington Sundar,All-Rounder,87500000,Sunrisers Hyderabad,2022.0,Indian,Washington Sundar,Washington Sundar,589,Washington Sundar,318,35,278,33.0,928.0,1116.0,50,6.36,114.39,12.59,7.22,33.82,28.12,9.0,0.0
+Wayne Parnell,Bowler,10000000,Delhi Daredevils,2014.0,Overseas,Wayne Parnell,WD Parnell,586,WD Parnell,63,5,80,26.0,601.0,731.0,26,2.42,78.75,6.25,7.3,28.12,23.12,6.0,0.0
+Yash Dayal,Bowler,32000000,Gujarat Titans,2022.0,Indian,Yash Dayal,Yash Dayal,600,Yash Dayal,0,0,1,11.0,205.0,296.0,9,0.0,0.0,0.0,8.66,26.91,18.64,1.0,0.0
+Yashasvi Jaiswal,All-Rounder,24000000,Rajasthan Royals,2020.0,Indian,Yashasvi Jaiswal,YBK Jaiswal,596,YBK Jaiswal,547,84,410,0.0,1.0,6.0,23,23.78,133.41,20.49,36.0,60000.0,10000.0,6.0,0.0
+Yogesh Takawale,Wicket Keeper,1000000,Royal Challengers Bangalore,2014.0,Indian,Yogesh Takawale,YV Takawale,599,YV Takawale,192,29,183,0.0,0.0,0.0,10,19.2,104.92,15.85,0.0,0.0,0.0,13.0,4.0
+Yusuf Pathan,All-Rounder,32500000,Kolkata Knight Riders,2014.0,Indian,Yusuf Pathan,YK Pathan,597,YK Pathan,3222,424,2334,42.0,1184.0,1443.0,161,20.01,138.05,18.17,7.31,34.36,28.19,41.0,0.0
+Yusuf Pathan,All-Rounder,19000000,Sunrisers Hyderabad,2018.0,Indian,Yusuf Pathan,YK Pathan,597,YK Pathan,3222,424,2334,42.0,1184.0,1443.0,161,20.01,138.05,18.17,7.31,34.36,28.19,41.0,0.0
+Yuvraj Singh,All-Rounder,140000000,Royal Challengers Bangalore,2014.0,Indian,Yuvraj Singh,Yuvraj Singh,603,Yuvraj Singh,2754,367,2207,36.0,882.0,1091.0,129,21.35,124.78,16.63,7.42,30.31,24.5,29.0,0.0
+Yuvraj Singh,Batsman,160000000,Delhi Daredevils,2015.0,Indian,Yuvraj Singh,Yuvraj Singh,603,Yuvraj Singh,2754,367,2207,36.0,882.0,1091.0,129,21.35,124.78,16.63,7.42,30.31,24.5,29.0,0.0
+Yuvraj Singh,All-Rounder,70000000,Sunrisers Hyderabad,2016.0,Indian,Yuvraj Singh,Yuvraj Singh,603,Yuvraj Singh,2754,367,2207,36.0,882.0,1091.0,129,21.35,124.78,16.63,7.42,30.31,24.5,29.0,0.0
+Yuvraj Singh,All-Rounder,20000000,Kings XI Punjab,2018.0,Indian,Yuvraj Singh,Yuvraj Singh,603,Yuvraj Singh,2754,367,2207,36.0,882.0,1091.0,129,21.35,124.78,16.63,7.42,30.31,24.5,29.0,0.0
+Yuvraj Singh,All-Rounder,10000000,Mumbai Indians,2019.0,Indian,Yuvraj Singh,Yuvraj Singh,603,Yuvraj Singh,2754,367,2207,36.0,882.0,1091.0,129,21.35,124.78,16.63,7.42,30.31,24.5,29.0,0.0
+Yuzvendra Chahal,Bowler,65000000,Rajasthan Royals,2022.0,Indian,Yuzvendra Chahal,YS Chahal,598,YS Chahal,37,0,89,166.0,2940.0,3699.0,130,0.28,41.57,0.0,7.55,22.28,17.71,21.0,0.0
+Zaheer Khan,Bowler,26000000,Mumbai Indians,2014.0,Indian,Zaheer Khan,Z Khan,604,Z Khan,117,13,141,102.0,2276.0,2860.0,99,1.18,82.98,9.22,7.54,28.04,22.31,20.0,0.0
+Zaheer Khan,Bowler,40000000,Delhi Daredevils,2015.0,Indian,Zaheer Khan,Z Khan,604,Z Khan,117,13,141,102.0,2276.0,2860.0,99,1.18,82.98,9.22,7.54,28.04,22.31,20.0,0.0
